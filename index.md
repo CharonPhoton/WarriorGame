@@ -145,11 +145,12 @@
 # [ 게임 시스템 디자인 ]<a name='6'></a>
 ## a. 게임 오브젝트 분해<a name='6-1'></a>
 
-|연번|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
-|1|버서커(Berserker)/Player|<img src="./image/Charactor.png" width="300">|
-|2|매직 슈터(Magic Shooter)/Player|<img src="./image/Process.png" width="300">|
-|3|로보틱 센티넬(Robotic Sentinel)/Player|<img src="./image/Life.gif" width="100">|
+|연번|태그|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|
+|1|아이템 - 소비|사과|<img src="./image/Charactor.png" width="300">|
+|2|아이템 - 장비 : 무기|주괴|<img src="./image/Process.png" width="300">|
+|3|아이템 - 장비 : 장신구|목걸이|<img src="./image/Life.gif" width="100">|
+|4|아이템 - 장비 : 배낭|벨트|<img src="./image/Life.gif" width="100">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
