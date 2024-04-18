@@ -770,3 +770,19 @@
 아이템이 총 100가지가 되었으며, 쳅터3의 몬스터들은 더욱 강력한 몬스터로 만들었다.
 이 다음에는 인벤토리 시스템을 적극적으로 활용하게 모든 장비에 내구도를 추가할 예정이다.
 
+### [21주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week21.mp4" type="video/mp4" />
+</video>
+
+내구도 작업이 완료되었다.
+전투가 끝나면 착용 중인 장비 아이템의 내구도가 줄어든다.
+또한, 아이템에 등급이 추가되었다.
+등급은 아이템의 등급이 나와 있는 UI를 누르면 어떤 등급들이 있는지 나온다.
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week21-2.mp4" type="video/mp4" />
+</video>
+
+내구도가 0이 되면 장비가 파괴되며, 파괴되는 소리가 출력된다.
