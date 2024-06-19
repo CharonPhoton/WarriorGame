@@ -189,6 +189,12 @@
 |40|블러드 아이언|부적|X|<img src="./Items/Blood Iron.png" width="64">|
 |41|피의 목걸이|장신구|A|<img src="./Items/Blood Necklace.png" width="64">|
 |42|원한의 해골|부적|A|<img src="./Items/Skull Of Revenge.png" width="64">|
+|43|붉은 보석|부적|A|<img src="./Items/Red Crystal.png" width="64">|
+|44|보은의 뼈|부적|A|<img src="./Items/Bone Of Repay.png" width="64">|
+|45|배틀 액스|무기|AH|<img src="./Items/BattleAxe.png" width="64">|
+|46|최상급 고기|소비|AH|<img src="./Items/Best Meat.png" width="64">|
+|47|강철 갑옷|갑옷|AH|<img src="./Items/Steel Armor.png" width="64">|
+|48|라피스 라줄리 목걸이|장신구|AH|<img src="./Items/Lapis Lazuli Necklace.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
