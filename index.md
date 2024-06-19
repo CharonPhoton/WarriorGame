@@ -201,6 +201,12 @@
 |52|집중의 물약|소비|AH|<img src="./Items/Potion Of Concentration.png" width="64">|
 |53|괴력육|소비|A|<img src="./Items/Monster Power Meat.png" width="64">|
 |54|월도|무기|AH|<img src="./Items/Glaive.png" width="64">|
+|55|기력버섯|소비|S|<img src="./Items/Power Mushroom.png" width="64">|
+|56|하프 엘릭서|소비|H|<img src="./Items/Half Elixir.png" width="64">|
+|57|누군가의 쪽지|부적|S|<img src="./Items/Someone's Letter.png" width="64">|
+|58|전투 방패|무기|AH|<img src="./Items/Battle Shield.png" width="64">|
+|59|활|무기|AH|<img src="./Items/Bow.png" width="64">|
+|60|천선어|소비|X|<img src="./Items/Sky Good Fish.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
