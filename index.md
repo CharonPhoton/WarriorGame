@@ -225,6 +225,12 @@
 |76|레드 에너지 팬츠|갑옷|M|<img src="./Items/Red Energy Pants.png" width="64">|
 |77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Filling Grudge.png" width="64">|
 |78|포이즌 블레이드|무기|M|<img src="./Items/Poison Blade.png" width="64">|
+|79|예리한 울프 스워드|무기|M|<img src="./Items/Sharp Wolf Sword.png" width="64">|
+|80|골검|무기|M|<img src="./Items/Bone Sword.png" width="64">|
+|81|라바 부츠|갑옷|M|<img src="./Items/Lava Boots.png" width="64">|
+|82|낡은 코인|부적|M|<img src="./Items/Old Coin.png" width="64">|
+|83|프로즌 랫 에너지 아머|갑옷|G|<img src="./Items/Frozen Rat Energy Armor.png" width="64">|
+|84|라스 웜의 가죽 장갑|갑옷|G|<img src="./Items/Wrath Wrom's Leather Gloves.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
