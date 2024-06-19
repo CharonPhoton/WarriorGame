@@ -171,6 +171,12 @@
 |22|청옥석|장신구|C|<img src="./Items/Sapphire Stone.png" width="64">|
 |23|대검|무기|B|<img src="./Items/Big Sword.png" width="64">|
 |24|은 주괴|부적|B|<img src="./Items/Silver Ingot.png" width="64">|
+|25|신선한 고기|소비|B|<img src="./Items/Fresh Meat.png" width="64">|
+|26|열쇠|부적|B|<img src="./Items/Key.png" width="64">|
+|27|아이언 링|장신구|B|<img src="./Items/Iron Ring.png" width="64">|
+|28|실프 헬멧|갑옷|A|<img src="./Items/Sylph Helmets.png" width="64">|
+|29|은 갑옷|갑옷|A|<img src="./Items/Silver Armor.png" width="64">|
+|30|트레저 팬츠|갑옷|A|<img src="./Items/Treasure Pants.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
