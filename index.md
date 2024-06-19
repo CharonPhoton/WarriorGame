@@ -165,6 +165,12 @@
 |16|젬|부적|E|<img src="./Items/Gem.png" width="64">|
 |17|깨진 반지|부적|E|<img src="./Items/Broken Ring.PNG" width="64">|
 |18|고기|소비|C|<img src="./Items/Meat.png" width="64">|
+|19|철 갑옷|갑옷|C|<img src="./Items/Iron Armor.png" width="64">|
+|20|도끼|무기|C|<img src="./Items/Axe.png" width="64">|
+|21|트레저 부츠|갑옷|C|<img src="./Items/Treasure Boots.png" width="64">|
+|22|청옥석|장신구|C|<img src="./Items/Sapphire Stone.png" width="64">|
+|23|대검|무기|B|<img src="./Items/Big Sword.png" width="64">|
+|24|은 주괴|부적|B|<img src="./Items/Silver Ingot.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
