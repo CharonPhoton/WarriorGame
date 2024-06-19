@@ -195,6 +195,12 @@
 |46|최상급 고기|소비|AH|<img src="./Items/Best Meat.png" width="64">|
 |47|강철 갑옷|갑옷|AH|<img src="./Items/Steel Armor.png" width="64">|
 |48|라피스 라줄리 목걸이|장신구|AH|<img src="./Items/Lapis Lazuli Necklace.png" width="64">|
+|49|철갑 갑피|갑옷|AH|<img src="./Items/Armor Upper.png" width="64">|
+|50|힘의 물약|장신구|A|<img src="./Items/Potion Of Power.png" width="64">|
+|51|인내의 물약|소비|A|<img src="./Items/Potion Of Speed.png" width="64">|
+|52|집중의 물약|소비|AH|<img src="./Items/Potion Of Concentration.png" width="64">|
+|53|괴력육|소비|A|<img src="./Items/Monster Power Meat.png" width="64">|
+|54|월도|무기|AH|<img src="./Items/Glaive.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
