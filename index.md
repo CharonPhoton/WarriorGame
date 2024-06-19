@@ -223,7 +223,7 @@
 |74|독 빼낸 고기|소비|L|<img src="./Items/Meat Removed Poison.png" width="64">|
 |75|둠 아머|갑옷|L|<img src="./Items/Doom Armor.png" width="64">|
 |76|레드 에너지 팬츠|갑옷|M|<img src="./Items/Red Energy Pants.png" width="64">|
-|77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Having Grudge.png" width="64">|
+|77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Filling Grudge.png" width="64">|
 |78|포이즌 블레이드|무기|M|<img src="./Items/Poison Blade.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
