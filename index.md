@@ -159,6 +159,12 @@
 |10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|
 |11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|
 |12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
+|13|블루 울프의 갈기|장신구|S|<img src="./Items/Blue Wolf's Mane.png" width="64">|
+|14|소형 포션|소비|D|<img src="./Items/Small Potion.png" width="64">|
+|15|검|무기|D|<img src="./Items/Sword.png" width="64">|
+|16|젬|부적|E|<img src="./Items/Gem.png" width="64">|
+|17|깨진 반지|부적|E|<img src="./Items/Broken Ring.png" width="64">|
+|18|고기|소비|C|<img src="./Items/Meat.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
