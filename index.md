@@ -144,12 +144,15 @@
 # [ 게임 시스템 디자인 ]<a name='6'></a>
 ## a. 게임 오브젝트 분해<a name='6-1'></a>
 
+### a-1.아이템
 |연번|태그|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|
-|1|아이템 - 소비|사과|<img src="./image/Charactor.png" width="300">|
-|2|아이템 - 장비 : 무기|주괴|<img src="./image/Process.png" width="300">|
-|3|아이템 - 장비 : 장신구|목걸이|<img src="./image/Life.gif" width="100">|
-|4|아이템 - 장비 : 배낭|벨트|<img src="./image/Life.gif" width="100">|
+|1|소비|사과|<img src="./Items/Charactor.png" width="300">|
+|2|무기|주괴|<img src="./Items/Process.png" width="300">|
+|3|장신구|목걸이|<img src="./Items/Life.gif" width="100">|
+|4|가방|벨트|<img src="./Items/Life.gif" width="100">|
+|5|가방|스크롤|<img src="./Items/Life.gif" width="100">|
+|6|가방|벨트|<img src="./Items/Life.gif" width="100">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
