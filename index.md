@@ -218,7 +218,13 @@
 |69|금괴|부적|S|<img src="./Items/Gold Bar.png" width="64">|
 |70|라이트 해머|무기|X|<img src="./Items/Light Hammer.png" width="64">|
 |71|그로겔 이어링|장신구|L|<img src="./Items/Grogel Earrings.png" width="64">|
-|72|흉포한 도끼|무시|M|<img src="./Items/Brutal Axe.png" width="64">|
+|72|흉포한 도끼|무기|M|<img src="./Items/Brutal Axe.png" width="64">|
+|73|정제된 블루 스콜피온의 독|소비|G|<img src="./Items/Refined Blue Scorpion's Poison.png" width="64">|
+|74|독 빼낸 고기|소비|L|<img src="./Items/Meat Removed Poison.png" width="64">|
+|75|둠 아머|갑옷|L|<img src="./Items/Doom Armor.png" width="64">|
+|76|레드 에너지 팬츠|갑옷|M|<img src="./Items/Red Energy Pants.png" width="64">|
+|77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Having Grudge.png" width="64">|
+|78|포이즌 블레이드|무기|M|<img src="./Items/Poison Blade.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
