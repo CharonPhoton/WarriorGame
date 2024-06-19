@@ -183,12 +183,12 @@
 |34|포에나|무기|S|<img src="./Items/Poena.png" width="64">|
 |35|슬라임의 보은|부적|X|<img src="./Items/Slime's Repay.png" width="64">|
 |36|전갈 반지|장신구|X|<img src="./Items/Scorpion Ring.png" width="64">|
-|37|그린 울프 갈기 망토|갑옷|A|<img src="./Items/Green Wolf's Mane Cloaks.PNG" width="64">|
-|38|포이즌 글라디우스|무기|A|<img src="./Items/Poison Gradius.png" width="64">|
-|39|스팀팩|소비|A|<img src="./Items/Stimpack.png" width="64">|
-|40|블러드 아이언|부적|S|<img src="./Items/Blood Iron.png" width="64">|
-|41|피의 목걸이|장신구|X|<img src="./Items/Blood Necklace.png" width="64">|
-|42|원한의 해골|부적|X|<img src="./Items/Skull Of Revenge.png" width="64">|
+|37|그린 울프 갈기 망토|갑옷|X|<img src="./Items/Green Wolf's Mane Cloaks.PNG" width="64">|
+|38|포이즌 글라디우스|무기|X|<img src="./Items/Poison Gradius.png" width="64">|
+|39|스팀팩|소비|X|<img src="./Items/Stimpack.png" width="64">|
+|40|블러드 아이언|부적|X|<img src="./Items/Blood Iron.png" width="64">|
+|41|피의 목걸이|장신구|A|<img src="./Items/Blood Necklace.png" width="64">|
+|42|원한의 해골|부적|A|<img src="./Items/Skull Of Revenge.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
