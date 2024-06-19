@@ -213,6 +213,12 @@
 |64|드워프 벨트|장신구|S|<img src="./Items/Dwarf Belt.png" width="64">|
 |65|고대서|무기|S|<img src="./Items/Ancient Book.png" width="64">|
 |66|아메시스 헬멧|갑옷|S|<img src="./Items/Amethyst Halmet.png" width="64">|
+|67|블루 트레저 팬츠|갑옷|S|<img src="./Items/Blue Treasure Pants.png" width="64">|
+|68|사우전드 우드 브레이서|장신구|S|<img src="./Items/Thousand Wood Barcers.png" width="64">|
+|69|금괴|부적|S|<img src="./Items/Gold Bar.png" width="64">|
+|70|라이트 해머|무기|X|<img src="./Items/Light Hammer.png" width="64">|
+|71|그로겔 이어링|장신구|L|<img src="./Items/Grogel Earrings.png" width="64">|
+|72|흉포한 도끼|무시|M|<img src="./Items/Brutal Axe.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
