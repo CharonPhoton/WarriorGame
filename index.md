@@ -207,6 +207,12 @@
 |58|전투 방패|무기|AH|<img src="./Items/Battle Shield.png" width="64">|
 |59|활|무기|AH|<img src="./Items/Bow.png" width="64">|
 |60|천선어|소비|X|<img src="./Items/Sky Good Fish.png" width="64">|
+|61|바바리안 스워드|무기|S|<img src="./Items/Babarian Sword.png" width="64">|
+|62|마골|부적|S|<img src="./Items/Demon Skull.png" width="64">|
+|63|엘프 넥클레스|장신구|S|<img src="./Items/Elf Necklace.png" width="64">|
+|64|드워프 벨트|장신구|S|<img src="./Items/Dwarf Belt.png" width="64">|
+|65|고대서|무기|S|<img src="./Items/Ancient Book.png" width="64">|
+|66|아메시스 헬멧|갑옷|S|<img src="./Items/Amethyst Halmet.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
