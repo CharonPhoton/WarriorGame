@@ -157,7 +157,7 @@
 |8|코인|부적|E|<img src="./Items/Coin.png" width="64">|
 |9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.PNG" width="64">|
 |10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|
-|11|거미의 독니|무기|AH|<img src="./Items/Spider's Poison Tooth.png" width="64">|
+|11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|
 |12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
