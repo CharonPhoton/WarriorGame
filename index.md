@@ -155,7 +155,7 @@
 |6|벨트|가방|D|<img src="./Items/Belt.png" width="64">|
 |7|가죽 갑옷|갑옷|D|<img src="./Items/Leather Armor.png" width="64">|
 |8|코인|부적|E|<img src="./Items/Coin.png" width="64">|
-|9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.PNG" width="64">|
+|9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.png" width="64">|
 |10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|
 |11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|
 |12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
