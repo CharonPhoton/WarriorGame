@@ -145,14 +145,20 @@
 ## a. 게임 오브젝트 분해<a name='6-1'></a>
 
 ### a-1.아이템
-|연번|태그|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|:----:|
-|1|소비|사과|<img src="./Items/Apple.png" width="64">|
-|2|무기|주괴|<img src="./Items/Ingot.png" width="64">|
-|3|장신구|목걸이|<img src="./Items/Necklace.PNG" width="64">|
-|4|가방|가방|<img src="./Items/Bag.png" width="64">|
-|5|가방|스크롤|<img src="./Items/Scroll.png" width="64">|
-|6|가방|벨트|<img src="./Items/Belt.png" width="64">|
+|연번|오브젝트 이름|태그|등급|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|:----:|
+|1|사과|소비|E|<img src="./Items/Apple.png" width="64">|
+|2|주괴|무기|E|<img src="./Items/Ingot.png" width="64">|
+|3|목걸이|장신구|E|<img src="./Items/Necklace.PNG" width="64">|
+|4|가방|가방|B|<img src="./Items/Bag.png" width="64">|
+|5|스크롤|가방|X|<img src="./Items/Scroll.png" width="64">|
+|6|벨트|가방|D|<img src="./Items/Belt.png" width="64">|
+|7|가죽 갑옷|갑옷|D|<img src="./Items/Leather Armor.png" width="64">|
+|8|코인|부적|E|<img src="./Items/Coin.png" width="64">|
+|9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.PNG" width="64">|
+|10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|
+|11|거미의 독니|무기|AH|<img src="./Items/Spider's Poison Tooth.png" width="64">|
+|12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
