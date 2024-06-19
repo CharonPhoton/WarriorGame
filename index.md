@@ -177,6 +177,12 @@
 |28|실프 헬멧|갑옷|A|<img src="./Items/Sylph Helmets.png" width="64">|
 |29|은 갑옷|갑옷|A|<img src="./Items/Silver Armor.png" width="64">|
 |30|트레저 팬츠|갑옷|A|<img src="./Items/Treasure Pants.png" width="64">|
+|31|기력의 간|소비|A|<img src="./Items/Power Liver.png" width="64">|
+|32|푸른 마법책|무기|A|<img src="./Items/Blue MagicBook.png" width="64">|
+|33|레이피어|무기|A|<img src="./Items/Rapier.png" width="64">|
+|34|포에나|무기|S|<img src="./Items/Poena.png" width="64">|
+|35|슬라임의 보은|부적|X|<img src="./Items/Slime's Repay.png" width="64">|
+|36|전갈 반지|장신구|X|<img src="./Items/Scorpion Ring.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
