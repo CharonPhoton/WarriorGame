@@ -303,11 +303,11 @@
 ### a-2.몬스터
 |연번|오브젝트 이름|등장 챕터|등급|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|
-|1|슬라임|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
-|2|거대 들쥐|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
-|3|들판 거미|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
-|4|그린 슬라임|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
-|5|블루 울프|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+|1|슬라임|챕터 1|일반|<img src="./Monsters/Slime.png" width="64">|
+|2|거대 들쥐|챕터 1|일반|<img src="./Monsters/Big Rat.png" width="64">|
+|3|들판 거미|챕터 1|일반|<img src="./Monsters/Field Spider.png" width="64">|
+|4|그린 슬라임|챕터 1|일반|<img src="./Monsters/Green Slime.png" width="64">|
+|5|블루 울프|챕터 1|일반|<img src="./Monsters/Blue Wolf.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
