@@ -243,12 +243,19 @@
 |94|어둠을 머금은 칼|무기|Z|<img src="./Items/Darkness Keep In The Sword.png" width="64">|
 |95|크리스털 스콜피온 쌍검|무기|Z|<img src="./Items/Crystal Scorpion's Twin Sword.png" width="64">|
 |96|마스터 케로베로스의 발톱|무기|Z|<img src="./Items/Master Cerberus's Nail.png" width="64">|
-|97|스포아의 이어링|장신구|M|<img src="./Items/Spoa's Earring.png" width="64">|
-|98|바드의 갑옷|갑옷|Z|<img src="./Items/Bard's Armor.png" width="64">|
-|99|켈트의 낡은 검|무기|I|<img src="./Items/Kelt's Old Sword.png" width="64">|
-|100|은 검|무기|H|<img src="./Items/Silver Sword.png" width="64">|
-|101|신성한 도끼|무기|H|<img src="./Items/Holy Axe.png" width="64">|
-|102|쌍검 베나리&세미타|무기|H|<img src="./Items/Twin Blade Venari&Semita.png" width="64">|
+|97|부정한 악마의 마법|부적|Z|<img src="./Items/Impure Demon's Magic.png" width="64">|
+|98|스포아의 이어링|장신구|M|<img src="./Items/Spoa's Earring.png" width="64">|
+|99|바드의 갑옷|갑옷|Z|<img src="./Items/Bard's Armor.png" width="64">|
+|100|켈트의 낡은 검|무기|I|<img src="./Items/Kelt's Old Sword.png" width="64">|
+|101|은 검|무기|H|<img src="./Items/Silver Sword.png" width="64">|
+|102|신성한 도끼|무기|H|<img src="./Items/Holy Axe.png" width="64">|
+|103|쌍검 베나리&세미타|무기|H|<img src="./Items/Twin Blade Venari&Semita.png" width="64">|
+|104|커트리스 보텀|무기|H|<img src="./Items/Cultass Votem.png" width="64">|
+|105|붉은 마법책|무기|X|<img src="./Items/Red MagicBook.png" width="64">|
+|106|크로니클 아머|갑옷|H|<img src="./Items/Cronicle Armor.png" width="64">|
+|107|세월의 갑옷|갑옷|H|<img src="./Items/Armor Of Time.png" width="64">|
+|108|홀리 헬멧|갑옷|H|<img src="./Items/Holy Helmet.png" width="64">|
+|109|풀아머드 헬멧|갑옷|L|<img src="./Items/Full Armored Helmet.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
