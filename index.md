@@ -286,6 +286,12 @@
 |137|천상육|소비|M|<img src="./Items/Heaven Meat.png" width="64">|
 |138|라이트 액스|무기|L|<img src="./Items/Light Axe.png" width="64">|
 |139|데빌 브레이커|무기|L|<img src="./Items/Devil Breaker.png" width="64">|
+|140|스페스의 눈|무기|G|<img src="./Items/Eye Of Spes.png" width="64">|
+|141|플라시두스|갑옷|L|<img src="./Items/Placidus.png" width="64">|
+|142|홀리 아머|갑옷|L|<img src="./Items/Holy Armor.png" width="64">|
+|143|데스티니 로브|갑옷|M|<img src="./Items/Destiny Robe.png" width="64">|
+|144|축복의 반지|장신구|L|<img src="./Items/Blessedness Ring.png" width="64">|
+|145|크리스털 이어링|장신구|L|<img src="./Items/Crystal Earring.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
