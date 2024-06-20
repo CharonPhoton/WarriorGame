@@ -274,6 +274,12 @@
 |125|베네디캇|무기|M|<img src="./Items/Benedicat.png" width="64">|
 |126|다크 아머|갑옷|X|<img src="./Items/Dark Armor.png" width="64">|
 |127|노블 부츠|갑옷|X|<img src="./Items/Noble Boots.png" width="64">|
+|128|프로테가트|갑옷|X|<img src="./Items/Protegat.png" width="64">|
+|129|비르투스 넥클레스|장신구|X|<img src="./Items/Virtus Necklace.png" width="64">|
+|130|청결정 귀걸이|장신구|X|<img src="./Items/Blue Crystal Earrings.png" width="64">|
+|131|크레센트 링|장신구|M|<img src="./Items/Cresent Ring.png" width="64">|
+|132|아다만트|부적|X|<img src="./Items/Adamant.png" width="64">|
+|133|환상수의 뼈|부적|X|<img src="./Items/Dream Beast's Bones.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
