@@ -243,6 +243,12 @@
 |94|어둠을 머금은 칼|무기|Z|<img src="./Items/Darkness Keep In The Sword.png" width="64">|
 |95|크리스털 스콜피온 쌍검|무기|Z|<img src="./Items/Crystal Scorpion's Twin Sword.png" width="64">|
 |96|마스터 케로베로스의 발톱|무기|Z|<img src="./Items/Master Cerberus's Nail.png" width="64">|
+|97|스포아의 이어링|장신구|M|<img src="./Items/Spoa's Earring.png" width="64">|
+|98|바드의 갑옷|갑옷|Z|<img src="./Items/Bard's Armor.png" width="64">|
+|99|켈트의 낡은 검|무기|I|<img src="./Items/Kelt's Old Sword.png" width="64">|
+|100|은 검|무기|H|<img src="./Items/Silver Sword.png" width="64">|
+|101|신성한 도끼|무기|H|<img src="./Items/Holy Axe.png" width="64">|
+|102|쌍검 베나리&세미타|무기|H|<img src="./Items/Twin Blade Venari&Semita.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
