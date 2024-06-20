@@ -231,6 +231,12 @@
 |82|낡은 코인|부적|M|<img src="./Items/Old Coin.png" width="64">|
 |83|프로즌 랫 에너지 아머|갑옷|G|<img src="./Items/Frozen Rat Energy Armor.png" width="64">|
 |84|라스 웜의 가죽 장갑|갑옷|G|<img src="./Items/Wrath Wrom's Leather Gloves.png" width="64">|
+|85|불의 격통|무기|G|<img src="./Items/Throe Of Fire.png" width="64">|
+|86|검은 반지|장신구|G|<img src="./Items/Black Ring.png" width="64">|
+|87|투명한 엘릭서|소비|I|<img src="./Items/Invisible Elixir.png" width="64">|
+|88|스켈레톤 블레이드|무기|G|<img src="./Items/Skeleton Blade.png" width="64">|
+|89|원한 서린 코인|부적|G|<img src="./Items/Coin Clouding Grudge.png" width="64">|
+|90|크리스털 스파이더의 수정|장신구|Z|<img src="./Items/Crystal Spider's Crystal.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
