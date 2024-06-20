@@ -237,6 +237,12 @@
 |88|스켈레톤 블레이드|무기|G|<img src="./Items/Skeleton Blade.png" width="64">|
 |89|원한 서린 코인|부적|G|<img src="./Items/Coin Clouding Grudge.png" width="64">|
 |90|크리스털 스파이더의 수정|장신구|Z|<img src="./Items/Crystal Spider's Crystal.png" width="64">|
+|91|리더 울프의 고기|소비|Z|<img src="./Items/Leader Wolf's Meat.png" width="64">|
+|92|남겨진 왕관|장신구|Z|<img src="./Items/Remanent Crown.png" width="64">|
+|93|매드 본웜의 갈비뼈|부적|Z|<img src="./Items/Mad BoneWorm's Ribs.png" width="64">|
+|94|어둠을 머금은 칼|무기|Z|<img src="./Items/Darkness Keep In The Sword.png" width="64">|
+|95|크리스털 스콜피온 쌍검|무기|Z|<img src="./Items/Crystal Scorpion's Twin Sword.png" width="64">|
+|96|마스터 케로베로스의 발톱|무기|Z|<img src="./Items/Master Cerberus's Nail.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
