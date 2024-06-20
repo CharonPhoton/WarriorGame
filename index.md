@@ -328,6 +328,14 @@
 |23|라바 슬라임|챕터 4|일반|<img src="./Monsters/Lava Slime.png" width="64">|
 |24|유령|챕터 4|일반|<img src="./Monsters/Ghost.png" width="64">|
 |25|고블린 바드|챕터 4|보스|<img src="./Monsters/Goblin Vard.png" width="64">|
+|26|프로즌 랫|챕터 5|일반|<img src="./Monsters/Frozen Rat.png" width="64">|
+|27|라스 웜|챕터 5|일반|<img src="./Monsters/Wrath Worm.png" width="64">|
+|28|파이어 케로베로스|챕터 5|일반|<img src="./Monsters/Fire Cerberus.png" width="64">|
+|29|불안정한 원혼|챕터 5|일반|<img src="./Monsters/Unstable Revengeful Spirit.png" width="64">|
+|30|디스커스팅 본웜|챕터 5|일반|<img src="./Monsters/Disgusting BoneWorm.png" width="64">|
+|31|스켈레톤|챕터 5|일반|<img src="./Monsters/Skeleton.png" width="64">|
+|32|원한의 유령|챕터 5|일반|<img src="./Monsters/Revengeful Ghost.png" width="64">|
+|33|해골전사 켈트|챕터 5|보스|<img src="./Monsters/Skull Warrior Kelt.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
