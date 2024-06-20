@@ -256,6 +256,12 @@
 |107|세월의 갑옷|갑옷|H|<img src="./Items/Armor Of Time.png" width="64">|
 |108|홀리 헬멧|갑옷|H|<img src="./Items/Holy Helmet.png" width="64">|
 |109|풀아머드 헬멧|갑옷|L|<img src="./Items/Full Armored Helmet.png" width="64">|
+|110|비옥석|무기|H|<img src="./Items/Flying Green Stone.png" width="64">|
+|111|에메랄드 링|무기|X|<img src="./Items/Emerald Ring.png" width="64">|
+|112|투지의 보석 아니모|갑옷|L|<img src="./Items/Jewel Of Fighting Spirit Animo.png" width="64">|
+|113|영웅의 동전|갑옷|H|<img src="./Items/Hero's Coins.png" width="64">|
+|114|성골|갑옷|H|<img src="./Items/Holy Bones.png" width="64">|
+|115|폐허의 씨앗|갑옷|X|<img src="./Items/Seed Of Ruins.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
