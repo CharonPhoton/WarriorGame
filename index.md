@@ -280,6 +280,12 @@
 |131|크레센트 링|장신구|M|<img src="./Items/Cresent Ring.png" width="64">|
 |132|아다만트|부적|X|<img src="./Items/Adamant.png" width="64">|
 |133|환상수의 뼈|부적|X|<img src="./Items/Dream Beast's Bones.png" width="64">|
+|134|용갑의 조각|부적|L|<img src="./Items/Dragon Armor's Piece.png" width="64">|
+|135|라이트닝 포션|소비|L|<img src="./Items/Lighting Potion.png" width="64">|
+|136|축복 포션|소비|L|<img src="./Items/Blessedness Potion.png" width="64">|
+|137|천상육|소비|M|<img src="./Items/Heaven Meat.png" width="64">|
+|138|라이트 액스|무기|L|<img src="./Items/Light Axe.png" width="64">|
+|139|데빌 브레이커|무기|L|<img src="./Items/Devil Breaker.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
