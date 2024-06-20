@@ -314,6 +314,12 @@
 |9|포이즌 스파이더|챕터 2|일반|<img src="./Monsters/Poison Spider.png" width="64">|
 |10|티스 웜|챕터 2|일반|<img src="./Monsters/Teeth Worm.png" width="64">|
 |11|킹즈 아이|챕터 2|보스|<img src="./Monsters/King's Eye.png" width="64">|
+|12|그로겔|챕터 3|일반|<img src="./Monsters/Grogel.png" width="64">|
+|13|흉포한 쥐|챕터 3|일반|<img src="./Monsters/Brutal Rat.png" width="64">|
+|14|블루 스콜피온|챕터 3|일반|<img src="./Monsters/Blue Scorpion.png" width="64">|
+|15|포이즌 웜|챕터 3|일반|<img src="./Monsters/Poison Worm.png" width="64">|
+|16|블랙 울프|챕터 3|일반|<img src="./Monsters/Black Wolf.png" width="64">|
+|17|버섯인간 스포아|챕터 3|보스|<img src="./Monsters/Mushroom Man Spoar.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
