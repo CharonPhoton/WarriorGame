@@ -268,6 +268,12 @@
 |119|모어 헬스 포션|소비|H|<img src="./Items/More Health Potion.png" width="64">|
 |120|버닝 포션|소비|X|<img src="./Items/Burning Potion.png" width="64">|
 |121|마법 모자|가방|AH|<img src="./Items/Magic Hat.png" width="64">|
+|122|세이버|무기|X|<img src="./Items/Saber.png" width="64">|
+|123|세계수 활|무기|X|<img src="./Items/WorldTree Bow.png" width="64">|
+|124|에이션트 소드|무기|X|<img src="./Items/Anicent Sword.png" width="64">|
+|125|베네디캇|무기|M|<img src="./Items/Benedicat.png" width="64">|
+|126|다크 아머|갑옷|X|<img src="./Items/Dark Armor.png" width="64">|
+|127|노블 부츠|갑옷|X|<img src="./Items/Noble Boots.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
@@ -377,7 +383,7 @@
 - 플레이어의 체력의 기본값은 100이다.
 - 플레이어의 공격력의 기본값은 10이다.
 - 플레이어의 방어력의 기본값은 0이다.
-- 플레이어의 반격 보정 확ㄱ률의 기본값은 0%다.
+- 플레이어의 반격 보정 확률의 기본값은 0%다.
 - 플레이어의 치명타 데미지의 기본값은 200%다.
 - 플레이어의 체력의 기본값은 100이다.
 - 게임 시작 전에 특성을 플레이어가 선택하게 한다.
