@@ -256,12 +256,18 @@
 |107|세월의 갑옷|갑옷|H|<img src="./Items/Armor Of Time.png" width="64">|
 |108|홀리 헬멧|갑옷|H|<img src="./Items/Holy Helmet.png" width="64">|
 |109|풀아머드 헬멧|갑옷|L|<img src="./Items/Full Armored Helmet.png" width="64">|
-|110|비옥석|무기|H|<img src="./Items/Flying Green Stone.png" width="64">|
-|111|에메랄드 링|무기|X|<img src="./Items/Emerald Ring.png" width="64">|
-|112|투지의 보석 아니모|갑옷|L|<img src="./Items/Jewel Of Fighting Spirit Animo.png" width="64">|
-|113|영웅의 동전|갑옷|H|<img src="./Items/Hero's Coins.png" width="64">|
-|114|성골|갑옷|H|<img src="./Items/Holy Bones.png" width="64">|
-|115|폐허의 씨앗|갑옷|X|<img src="./Items/Seed Of Ruins.png" width="64">|
+|110|비옥석|장신구|H|<img src="./Items/Flying Green Stone.png" width="64">|
+|111|에메랄드 링|장신구|X|<img src="./Items/Emerald Ring.png" width="64">|
+|112|투지의 보석 아니모|장신구|L|<img src="./Items/Jewel Of Fighting Spirit Animo.png" width="64">|
+|113|영웅의 동전|부적|H|<img src="./Items/Hero's Coins.png" width="64">|
+|114|성골|부적|H|<img src="./Items/Holy Bones.png" width="64">|
+|115|폐허의 씨앗|부적|X|<img src="./Items/Seed Of Ruins.png" width="64">|
+|116|설감육|소비|L|<img src="./Items/Meat Tasting like Snow.png" width="64">|
+|117|괴력의 갈비|소비|X|<img src="./Items/Rib Of Power.png" width="64">|
+|118|도마뱀 고기|소비|H|<img src="./Items/Lizard Meat.png" width="64">|
+|119|모어 헬스 포션|소비|H|<img src="./Items/More Health Potion.png" width="64">|
+|120|버닝 포션|소비|X|<img src="./Items/Burning Potion.png" width="64">|
+|121|마법 모자|가방|AH|<img src="./Items/Magic Hat.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
