@@ -320,6 +320,14 @@
 |15|포이즌 웜|챕터 3|일반|<img src="./Monsters/Poison Worm.png" width="64">|
 |16|블랙 울프|챕터 3|일반|<img src="./Monsters/Black Wolf.png" width="64">|
 |17|버섯인간 스포아|챕터 3|보스|<img src="./Monsters/Mushroom Man Spoar.png" width="64">|
+|18|레드 스파이더|챕터 4|일반|<img src="./Monsters/Red Spider.png" width="64">|
+|19|서늘한 원혼|챕터 4|일반|<img src="./Monsters/Cool Revengeful Spirit.png" width="64">|
+|20|포이즌 그로겔|챕터 4|일반|<img src="./Monsters/Poison Grogel.png" width="64">|
+|21|세 머리의 울프|챕터 4|일반|<img src="./Monsters/Three Headed Wolf.png" width="64">|
+|22|본웜|챕터 4|일반|<img src="./Monsters/BoneWorm.png" width="64">|
+|23|라바 슬라임|챕터 4|일반|<img src="./Monsters/Lava Slime.png" width="64">|
+|24|유령|챕터 4|일반|<img src="./Monsters/Ghost.png" width="64">|
+|25|고블린 바드|챕터 4|보스|<img src="./Monsters/Goblin Vard.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
