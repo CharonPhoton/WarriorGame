@@ -300,6 +300,15 @@
 |151|어스 포션|소비|L|<img src="./Items/Earth Potion.png" width="64">|
 |152|로드 포션|소비|G|<img src="./Items/Lord Potion.png" width="64">|
 
+### a-2.몬스터
+|연번|오브젝트 이름|등장 챕터|등급|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|:----:|
+|1|슬라임|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+|2|거대 들쥐|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+|3|들판 거미|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+|4|그린 슬라임|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+|5|블루 울프|챕터 1|일반|<img src="./Items/Apple.png" width="64">|
+
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
 오브젝트 태그 : Enemy
