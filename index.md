@@ -308,6 +308,12 @@
 |3|들판 거미|챕터 1|일반|<img src="./Monsters/Field Spider.png" width="64">|
 |4|그린 슬라임|챕터 1|일반|<img src="./Monsters/Green Slime.png" width="64">|
 |5|블루 울프|챕터 1|일반|<img src="./Monsters/Blue Wolf.png" width="64">|
+|6|블랙 슬라임|챕터 2|일반|<img src="./Monsters/Black Slime.png" width="64">|
+|7|숲 전갈|챕터 2|일반|<img src="./Monsters/Froest Scorpion.png" width="64">|
+|8|그린 울프|챕터 2|일반|<img src="./Monsters/Green Wolf.png" width="64">|
+|9|포이즌 스파이더|챕터 2|일반|<img src="./Monsters/Poison Spider.png" width="64">|
+|10|티스 웜|챕터 2|일반|<img src="./Monsters/Teeth Worm.png" width="64">|
+|11|킹즈 아이|챕터 2|보스|<img src="./Monsters/King's Eye.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
