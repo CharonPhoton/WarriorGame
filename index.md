@@ -286,12 +286,19 @@
 |137|천상육|소비|M|<img src="./Items/Heaven Meat.png" width="64">|
 |138|라이트 액스|무기|L|<img src="./Items/Light Axe.png" width="64">|
 |139|데빌 브레이커|무기|L|<img src="./Items/Devil Breaker.png" width="64">|
-|140|스페스의 눈|무기|G|<img src="./Items/Eye Of Spes.png" width="64">|
+|140|스페스의 눈|무기|G|<img src="./Items/Eye Of Spes.PNG" width="64">|
 |141|플라시두스|갑옷|L|<img src="./Items/Placidus.png" width="64">|
 |142|홀리 아머|갑옷|L|<img src="./Items/Holy Armor.png" width="64">|
 |143|데스티니 로브|갑옷|M|<img src="./Items/Destiny Robe.png" width="64">|
 |144|축복의 반지|장신구|L|<img src="./Items/Blessedness Ring.png" width="64">|
-|145|크리스털 이어링|장신구|L|<img src="./Items/Crystal Earring.png" width="64">|
+|145|크리스털 이어링|장신구|L|<img src="./Items/Crystal Earling.png" width="64">|
+|146|데몬 넥클레스|장신구|M|<img src="./Items/Demon Necklace.png" width="64">|
+|147|크루세이더 코인|부적|L|<img src="./Items/Crusader Coin.png" width="64">|
+|148|용사의 화살|부적|L|<img src="./Items/Hero'es Arrow.png" width="64">|
+|149|파이널 코인|부적|G|<img src="./Items/Final Coins.png" width="64">|
+|150|엔드 미트|소비|L|<img src="./Items/End Meat.png" width="64">|
+|151|어스 포션|소비|L|<img src="./Items/Earth Potion.png" width="64">|
+|152|로드 포션|소비|G|<img src="./Items/Lord Potion.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
