@@ -336,6 +336,15 @@
 |31|스켈레톤|챕터 5|일반|<img src="./Monsters/Skeleton.png" width="64">|
 |32|원한의 유령|챕터 5|일반|<img src="./Monsters/Revengeful Ghost.png" width="64">|
 |33|해골전사 켈트|챕터 5|보스|<img src="./Monsters/Skull Warrior Kelt.png" width="64">|
+|34|크리스털 스파이더|챕터 6|일반|<img src="./Monsters/Crystal Spider.png" width="64">|
+|35|리더 울프|챕터 6|일반|<img src="./Monsters/Leader Wolf.png" width="64">|
+|36|사무친 원혼|챕터 6|일반|<img src="./Monsters/Bitter Grudge Soul.png" width="64">|
+|37|매드 본웜|챕터 6|일반|<img src="./Monsters/Mad BonWorm.png" width="64">|
+|38|다크니스 그로겔|챕터 6|일반|<img src="./Monsters/Darkness Grogel.png" width="64">|
+|39|크리스털 스콜피온|챕터 6|일반|<img src="./Monsters/Crystal Scorpion.png" width="64">|
+|40|마스터 케로베로스|챕터 6|일반|<img src="./Monsters/Master Cerberus.png" width="64">|
+|41|부정한 악마|챕터 6|일반|<img src="./Monsters/Null Demon.png" width="64">|
+|42|마왕|스테이지 150|보스|<img src="./Monsters/Devil King.png" width="64">|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
