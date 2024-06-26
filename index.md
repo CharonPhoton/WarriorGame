@@ -1,4 +1,4 @@
-# 프로젝트명: Warrior is just going (Devloper : Photon)
+![image](https://github.com/CharonPhoton/WarriorGame/assets/114118704/9237bf2a-1ac7-4d99-b4f3-ca60783786b8)# 프로젝트명: Warrior is just going (Devloper : Photon)
 
 # [ 목차 ]
 
@@ -148,15 +148,15 @@
 |연번|오브젝트 이름|태그|등급|오브젝트 이미지|오브젝트 기초 설명|오브젝트 스토리 설명|오브젝트 효과 설명|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |1|사과|소비|E|<img src="./Items/Apple.png" width="64">|평범한 사과다.|먹어도 배는 부르지 않는다. 조금 더 컸으면....|사용 시 체력이 5 회복된다.|
-|2|주괴|무기|E|<img src="./Items/Ingot.png" width="64">|
-|3|목걸이|장신구|E|<img src="./Items/Necklace.PNG" width="64">|
-|4|가방|가방|B|<img src="./Items/Bag.png" width="64">|
-|5|스크롤|가방|X|<img src="./Items/Scroll.png" width="64">|
-|6|벨트|가방|D|<img src="./Items/Belt.png" width="64">|
-|7|가죽 갑옷|갑옷|D|<img src="./Items/Leather Armor.png" width="64">|
-|8|코인|부적|E|<img src="./Items/Coin.png" width="64">|
-|9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.png" width="64">|
-|10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|
+|2|주괴|무기|E|<img src="./Items/Ingot.png" width="64">|철 덩어리다.|이전에 마땅한 무기가 없어서 대충 이것을 집어서 싸운 적이 있다. 아주 옛날 이야기지만.|착용 시 공격력이 2 증가한다.|
+|3|목걸이|장신구|E|<img src="./Items/Necklace.PNG" width="64">|마법이 담긴 목걸이다.|하지만 그렇게 강력한 마법은 들어있지 않아 보인다. 그래도 상대의 움직임을 조금 볼 수 있을 정도나…|착용 시 공격 성공이 3% 보정된다.|
+|4|가방|가방|B|<img src="./Items/Bag.png" width="64">|가죽으로 만들어진 가방이다.|여정에 떠난 이들에게 가장 도움이 되는 물건이다.|8개의 아이템을 안에 넣을 수 있다.|
+|5|스크롤|가방|X|<img src="./Items/Scroll.png" width="64">|물건을 담을 수 있는 신비한 종이다.|스크롤을 만드는 법은 배웠지만 그녀가 내게는 재능이 없다고 아쉬워했다.|16개의 아이템을 안에 넣을 수 있다.|
+|6|벨트|가방|D|<img src="./Items/Belt.png" width="64">|가죽으로 만들어진 벨트다.|내가 커서 다행히 뭘 수납할 용도로 사용할 수 있다.|4개의 아이템을 안에 넣을 수 있다.|
+|7|가죽 갑옷|갑옷|D|<img src="./Items/Leather Armor.png" width="64">|가죽으로 만들어진 갑옷이다.|처음 전투에 관련된 교육을 받았을 때 이 갑옷을 입은 기억이 있다. 뭔가 가슴이 먹먹해진다.|착용 시 방어력이 3 증가한다.|
+|8|코인|부적|E|<img src="./Items/Coin.png" width="64">|은으로 만들어진 동전이다.|사람은 이것을 가지고 자신의 운을 시험하기도 한다. 이런 나에게도 행운을 줄 수 있을까?|착용 시 크리티컬 확률이 2% 증가한다.|
+|9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.png" width="64">|아주 희귀하게 나오는 슬라임의 점액체를 두른 가죽 부츠다.|온전한 슬라임 점액체는 이렇게 탄력 있고 내구성이 있었단 말인가…!!|착용 시 방어력이 25 증가한다.|
+|10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|거대 들쥐의 가죽으로 만든 부적이다.|가죽에 있는 이 고대어… 들쥐도 원래 이러진 않았구나.|착용 시 크리티컬 데미지가 100% 증가한다.|
 |11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|
 |12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
 |13|블루 울프의 갈기|장신구|S|<img src="./Items/Blue Wolf's Mane.png" width="64">|
