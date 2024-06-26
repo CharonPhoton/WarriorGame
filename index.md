@@ -1,4 +1,4 @@
-![image](https://github.com/CharonPhoton/WarriorGame/assets/114118704/9237bf2a-1ac7-4d99-b4f3-ca60783786b8)# 프로젝트명: Warrior is just going (Devloper : Photon)
+# 프로젝트명: Warrior is just going (Devloper : Photon)
 
 # [ 목차 ]
 
