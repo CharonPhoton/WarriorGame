@@ -157,16 +157,16 @@
 |8|코인|부적|E|<img src="./Items/Coin.png" width="64">|은으로 만들어진 동전이다.|사람은 이것을 가지고 자신의 운을 시험하기도 한다. 이런 나에게도 행운을 줄 수 있을까?|착용 시 크리티컬 확률이 2% 증가한다.|
 |9|코팅 부츠|갑옷|H|<img src="./Items/Coating Boots.png" width="64">|아주 희귀하게 나오는 슬라임의 점액체를 두른 가죽 부츠다.|온전한 슬라임 점액체는 이렇게 탄력 있고 내구성이 있었단 말인가…!!|착용 시 방어력이 25 증가한다.|
 |10|들쥐 부적|부적|S|<img src="./Items/Rat Talisman.png" width="64">|거대 들쥐의 가죽으로 만든 부적이다.|가죽에 있는 이 고대어… 들쥐도 원래 이러진 않았구나.|착용 시 크리티컬 데미지가 100% 증가한다.|
-|11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|
-|12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|
-|13|블루 울프의 갈기|장신구|S|<img src="./Items/Blue Wolf's Mane.png" width="64">|
-|14|소형 포션|소비|D|<img src="./Items/Small Potion.png" width="64">|
-|15|검|무기|D|<img src="./Items/Sword.png" width="64">|
-|16|젬|부적|E|<img src="./Items/Gem.png" width="64">|
-|17|깨진 반지|부적|E|<img src="./Items/Broken Ring.PNG" width="64">|
-|18|고기|소비|C|<img src="./Items/Meat.png" width="64">|
-|19|철 갑옷|갑옷|C|<img src="./Items/Iron Armor.png" width="64">|
-|20|도끼|무기|C|<img src="./Items/Axe.png" width="64">|
+|11|거미의 독니|무기|AH|<img src="./Items/Spider's Posion Tooth.png" width="64">|들판 거미의 독니이다.|이렇게 멀쩡한 독니를 구하긴 힘든데….|착용 시 공격력이 20 증가한다.|
+|12|그린 슬라임 포션|소비|G|<img src="./Items/Green Slime Potion.png" width="64">|그린 슬라임에게 추출 가능한 물약이다.|온전한 그린 슬라임 점액체는 훌륭한 약재라고도 불릴 정도인데… 이거 구하기 힘든데, 운이 좋네…. 이걸로 죽은 사람도 살릴 수 있으면 좋을련만.|사용 시 체력이 125 회복된다.|
+|13|블루 울프의 갈기|장신구|S|<img src="./Items/Blue Wolf's Mane.png" width="64">|블루 울프의 갈기이다.|달빛을 머금은 블루 울프의 갈기를 가지고 있으면 눈이 좋아진다지? 상대의 움직임을 잘 파악할 수 있게 될 거야.|착용 시 공격 성공이 15% 보정된다.|
+|14|소형 포션|소비|D|<img src="./Items/Small Potion.png" width="64">|달인 약재에 마법을 부여해서 빠르게 몸에 흡수되게 만든 약이다.|이거라면 나도 마실 수 있다.|사용 시 체력이 10 회복된다.|
+|15|검|무기|D|<img src="./Items/Sword.png" width="64">|검사들이 사용하는 검이다.|흔히 보이는 평범한 검이지만& 그렇기 때문에 누구든지 이 검을 잡고 휘두를 수 있었다. 나도 그랬으니까.|착용 시 공격력이 4 증가한다.|
+|16|젬|부적|E|<img src="./Items/Gem.png" width="64">|마법이 농축된 보석이다.|흔히 악마에 의해 잠식되어 변이된 동물이나 마물에게 얻을 수…. 아… 악마가 아니었나?|착용 시 크리티컬 데미지가 10% 증가하며, 크리티컬 확률이 1% 증가한다.|
+|17|깨진 반지|부적|E|<img src="./Items/Broken Ring.PNG" width="64">|누군가의 반지이다.|마물에게 죽은 사람의 것인가… 그 원한이 얼마나 큰지 나는 이미 알고 있다.|착용 시 크리티컬 데미지가 15% 증가한다.|
+|18|고기|소비|C|<img src="./Items/Meat.png" width="64">|마물의 고기다.|나는 맛있게 먹을 수 있는 식량이다.|사용 시 체력이 15 회복된다.|
+|19|철 갑옷|갑옷|C|<img src="./Items/Iron Armor.png" width="64">|철로 만들어진 갑옷이다.|용사 일행이 이런 갑옷을 착용했었다.|착용 시 방어력이 6 증가한다.|
+|20|도끼|무기|C|<img src="./Items/Axe.png" width="64">|강력한 한 방을 노릴 수 있는 무기다.|제대로 겨냥하고 베면 나무를 간단히 벨 만큼 강력한 무기다.|착용 시 공격력이 6 증가한다.|
 |21|트레저 부츠|갑옷|C|<img src="./Items/Treasure Boots.png" width="64">|
 |22|청옥석|장신구|C|<img src="./Items/Sapphire Stone.png" width="64">|
 |23|대검|무기|B|<img src="./Items/Big Sword.png" width="64">|
