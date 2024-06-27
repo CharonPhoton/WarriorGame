@@ -177,16 +177,16 @@
 |28|실프 헬멧|갑옷|A|<img src="./Items/Sylph Helmets.png" width="64">|바람의 정령의 가호가 담긴 투구다.|바람의 정령의 힘으로 더 민첩하게 움직일 수 있을 것이다.|착용 시 방어력이 8 증가하며, 공격 성공이 5% 보정된다.|
 |29|은 갑옷|갑옷|A|<img src="./Items/Silver Armor.png" width="64">|은으로 만들어진 갑옷이다.|마물에게 있어서 은은 거의 독이나 다름없다. 하지만 나는 다르다. 다르다….|착용 시 방어력이 12 증가한다.|
 |30|트레저 팬츠|갑옷|A|<img src="./Items/Treasure Pants.png" width="64">|가벼운 가죽 재질의 바지다.|편하게 움직일 수 있어서 좋긴 한데… 내구성이 좋지가 않다.|착용 시 방어력이 7 증가하며, 크리티컬 확률이 2% 증가한다.|
-|31|기력의 간|소비|A|<img src="./Items/Power Liver.png" width="64">|
-|32|푸른 마법책|무기|A|<img src="./Items/Blue MagicBook.png" width="64">|
-|33|레이피어|무기|A|<img src="./Items/Rapier.png" width="64">|
-|34|포에나|무기|S|<img src="./Items/Poena.png" width="64">|
-|35|슬라임의 보은|부적|X|<img src="./Items/Slime's Repay.png" width="64">|
-|36|전갈 반지|장신구|X|<img src="./Items/Scorpion Ring.png" width="64">|
-|37|그린 울프 갈기 망토|갑옷|X|<img src="./Items/Green Wolf's Mane Cloaks.PNG" width="64">|
-|38|포이즌 글라디우스|무기|X|<img src="./Items/Poison Gradius.png" width="64">|
-|39|스팀팩|소비|X|<img src="./Items/Stimpack.png" width="64">|
-|40|블러드 아이언|부적|X|<img src="./Items/Blood Iron.png" width="64">|
+|31|기력의 간|소비|A|<img src="./Items/Power Liver.png" width="64">|기력을 회복시켜 주는 신비의 간이다.|이 간을 그때 얻을 수 있었으면 좋았을 텐데…|사용 시 체력이 25 회복된다.|
+|32|푸른 마법책|무기|A|<img src="./Items/Blue MagicBook.png" width="64">|마법이 적힌 책이다.|마법사는 내게 재능이 없다고 했었지.... 하지만 지금은 다릅니다, 마법사.|착용 시 공격력이 8 증가하며, 크리티컬 확률이 3% 증가한다.|
+|33|레이피어|무기|A|<img src="./Items/Rapier.png" width="64">|빠른 공격을 할 수 있게 해주는 검이다.|적의 공격을 흘리고 반격하기 좋다.|착용 시 공격력이 7 증가하며, 공격 성공이 5% 보정된다.|
+|34|포에나|무기|S|<img src="./Items/Poena.png" width="64">|마물을 천 마리 이상 죽였다고 알려진 검이다.|이 무기는 마물에게 있어서 공포의 대상이다. 그럼 이제 내가 그 길을 가주겠어.|착용 시 공격력이 23 증가하며, 크리티컬 데미지가 60% 증가한다.|
+|35|슬라임의 보은|부적|X|<img src="./Items/Slime's Repay.png" width="64">|블랙 슬라임에게 얻을 수 있는 점액을 정제한 것이다.|이건 마시는 것보다는 갖고 다니는 것이 좋다. 억지로 슬라임이 되어 버린 원혼들이 나를 도울 거니까.|착용 시 크리티컬 확률이 35% 증가한다.|
+|36|전갈 반지|장신구|X|<img src="./Items/Scorpion Ring.png" width="64">|전갈의 독이 묻혀진 반지다.|이 전갈의 독은 추출하게 되면 독성이 아예 없다고 하지… 추출하게 되면.|착용 시 공격 성공이 20% 보정되며, 크리티컬 데미지가 60% 증가한다.|
+|37|그린 울프 갈기 망토|갑옷|X|<img src="./Items/Green Wolf's Mane Cloaks.PNG" width="64">|그린 울프의 갈기로 만든 망토다.|그린 울프의 갈기는 단단하지. 얻기도 힘든데, 운이 좋아.|착용 시 방어력이 30 증가하며, 공격 성공이 10% 보정된다.|
+|38|포이즌 글라디우스|무기|X|<img src="./Items/Poison Gradius.png" width="64">|포이즌 스파이더의 독을 흡수한 검이다.|글라우디스가… 독을 흡수했어…?|착용 시 공격력이 30 증가하며, 크리티컬 데미지가 50% 증가한다.|
+|39|스팀팩|소비|X|<img src="./Items/Stimpack.png" width="64">|티스 웜에게서 추출 가능한 약재로 만든 약이다.|가지고 다니면 내게 힘을 주는 신비의 약… 마저할 이유가 없지.|사용 시 영구적으로 공격력이 5 증가하며, 크리티컬 데미지가 30% 증가한다.|
+|40|블러드 아이언|부적|X|<img src="./Items/Blood Iron.png" width="64">|마왕의 수하인 킹스 아이의 피가 굳어 만들어진 철이다.|이 망할 눈 때문에….|착용 시 크리티컬 확률이 35% 증가하며, 크리티컬 데미지가 110% 증가한다.|
 |41|피의 목걸이|장신구|A|<img src="./Items/Blood Necklace.png" width="64">|
 |42|원한의 해골|부적|A|<img src="./Items/Skull Of Revenge.png" width="64">|
 |43|붉은 보석|부적|A|<img src="./Items/Red Crystal.png" width="64">|
