@@ -187,16 +187,16 @@
 |38|포이즌 글라디우스|무기|X|<img src="./Items/Poison Gradius.png" width="64">|포이즌 스파이더의 독을 흡수한 검이다.|글라우디스가… 독을 흡수했어…?|착용 시 공격력이 30 증가하며, 크리티컬 데미지가 50% 증가한다.|
 |39|스팀팩|소비|X|<img src="./Items/Stimpack.png" width="64">|티스 웜에게서 추출 가능한 약재로 만든 약이다.|가지고 다니면 내게 힘을 주는 신비의 약… 마저할 이유가 없지.|사용 시 영구적으로 공격력이 5 증가하며, 크리티컬 데미지가 30% 증가한다.|
 |40|블러드 아이언|부적|X|<img src="./Items/Blood Iron.png" width="64">|마왕의 수하인 킹스 아이의 피가 굳어 만들어진 철이다.|이 망할 눈 때문에….|착용 시 크리티컬 확률이 35% 증가하며, 크리티컬 데미지가 110% 증가한다.|
-|41|피의 목걸이|장신구|A|<img src="./Items/Blood Necklace.png" width="64">|
-|42|원한의 해골|부적|A|<img src="./Items/Skull Of Revenge.png" width="64">|
-|43|붉은 보석|부적|A|<img src="./Items/Red Crystal.png" width="64">|
-|44|보은의 뼈|부적|A|<img src="./Items/Bone Of Repay.png" width="64">|
-|45|배틀 액스|무기|AH|<img src="./Items/BattleAxe.png" width="64">|
-|46|최상급 고기|소비|AH|<img src="./Items/Best Meat.png" width="64">|
-|47|강철 갑옷|갑옷|AH|<img src="./Items/Steel Armor.png" width="64">|
-|48|라피스 라줄리 목걸이|장신구|AH|<img src="./Items/Lapis Lazuli Necklace.png" width="64">|
-|49|철갑 갑피|갑옷|AH|<img src="./Items/Armor Upper.png" width="64">|
-|50|힘의 물약|장신구|A|<img src="./Items/Potion Of Power.png" width="64">|
+|41|피의 목걸이|장신구|A|<img src="./Items/Blood Necklace.png" width="64">|피와 같은 색을 띄는 혈석을 가공해 만든 목걸이다.|이 피의 정체는 뭐지? 뭔지는 몰라도 집중력이 올라가는 기분이다. 힘까지도.|착용 시 공격 성공이 5% 보정되며, 공격력이 3 증가한다.|
+|42|원한의 해골|부적|A|<img src="./Items/Skull Of Revenge.png" width="64">|누군가의 두개골이다.|마물의 해골인가? 아니면 인간의 해골인가? 뭔지는 몰라도, 이 해골에서 원한이 느껴진다. 이 원한을 힘으로 사용하자.|착용 시 크리티컬 데미지가 60% 증가하며, 공격력이 2 증가한다.|
+|43|붉은 보석|부적|A|<img src="./Items/Red Crystal.png" width="64">|마물의 피에 적셔졌다고 알려진 보석이다.|마물들의 차디찬 원한이 담겨져 있다고 무방하겠군. 하지만 나에게는 그런 건 안 통한다.|착용 시 크리티컬 데미지가 75% 증가한다.|
+|44|보은의 뼈|부적|A|<img src="./Items/Bone Of Repay.png" width="64">|동물의 뼈다.|마기에 의해 흉포해진 동물이 남긴 뼈인가. 구해줘서 고맙다는 거군…|착용 시 크리티컬 확률이 9% 증가한다.|
+|45|배틀 액스|무기|AH|<img src="./Items/BattleAxe.png" width="64">|보통 도끼보다 더 단단하고 날카로운 도끼다.|이 도끼…. 보통 얻기 힘든데… 누군가의 유품인가?|착용 시 공격력이 14 증가하며, 크리티컬 데미지가 25% 증가한다.|
+|46|최상급 고기|소비|AH|<img src="./Items/Best Meat.png" width="64">|마물에게 얻을 수 있는 영양분이 풍부한 고기다.|이 고기…. 그들이 내게 줬었던 고기였구나. 어쩐지 맛있더라… 젠장.|사용 시 체력이 30 회복된다.|
+|47|강철 갑옷|갑옷|AH|<img src="./Items/Steel Armor.png" width="64">|강철로 만들어진 갑옷이다.|철 갑옷보다 더 단단해서 웬만한 공격은 다 막을 수 있다. 웬만한 공격은.|착용 시 방어력이 14 증가한다.|
+|48|라피스 라줄리 목걸이|장신구|AH|<img src="./Items/Lapis Lazuli Necklace.png" width="64">|청금석으로 만들어진 목걸이다.|청금석으로 수정 구슬을 만든다고 할 정도로 청금석에는 예지의 힘이 깃들어 있다고들 한다.|착용 시 공격 성공이 9% 보정된다.|
+|49|철갑 갑피|갑옷|AH|<img src="./Items/Armor Upper.png" width="64">|철로 만들어진 갑주다.|펼치면 온몸을 보호할 수 있는 장비라… 쓸만하겠는데?|착용 시 방어력이 12 증가하며, 공격 성공이 4% 보정된다.|
+|50|힘의 물약|장신구|A|<img src="./Items/Potion Of Power.png" width="64">|마시면 힘이 강해진다는 물약이다.|이것의 재료는 만드라고라에… 아니다… 더 알고 싶지 않아.|사용 시 영구적으로 공격력이 2 증가한다.|
 |51|인내의 물약|소비|A|<img src="./Items/Potion Of Speed.png" width="64">|
 |52|집중의 물약|소비|AH|<img src="./Items/Potion Of Concentration.png" width="64">|
 |53|괴력육|소비|A|<img src="./Items/Monster Power Meat.png" width="64">|
