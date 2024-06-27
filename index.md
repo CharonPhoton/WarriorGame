@@ -167,16 +167,16 @@
 |18|고기|소비|C|<img src="./Items/Meat.png" width="64">|마물의 고기다.|나는 맛있게 먹을 수 있는 식량이다.|사용 시 체력이 15 회복된다.|
 |19|철 갑옷|갑옷|C|<img src="./Items/Iron Armor.png" width="64">|철로 만들어진 갑옷이다.|용사 일행이 이런 갑옷을 착용했었다.|착용 시 방어력이 6 증가한다.|
 |20|도끼|무기|C|<img src="./Items/Axe.png" width="64">|강력한 한 방을 노릴 수 있는 무기다.|제대로 겨냥하고 베면 나무를 간단히 벨 만큼 강력한 무기다.|착용 시 공격력이 6 증가한다.|
-|21|트레저 부츠|갑옷|C|<img src="./Items/Treasure Boots.png" width="64">|
-|22|청옥석|장신구|C|<img src="./Items/Sapphire Stone.png" width="64">|
-|23|대검|무기|B|<img src="./Items/Big Sword.png" width="64">|
-|24|은 주괴|부적|B|<img src="./Items/Silver Ingot.png" width="64">|
-|25|신선한 고기|소비|B|<img src="./Items/Fresh Meat.png" width="64">|
-|26|열쇠|부적|B|<img src="./Items/Key.png" width="64">|
-|27|아이언 링|장신구|B|<img src="./Items/Iron Ring.png" width="64">|
-|28|실프 헬멧|갑옷|A|<img src="./Items/Sylph Helmets.png" width="64">|
-|29|은 갑옷|갑옷|A|<img src="./Items/Silver Armor.png" width="64">|
-|30|트레저 팬츠|갑옷|A|<img src="./Items/Treasure Pants.png" width="64">|
+|21|트레저 부츠|갑옷|C|<img src="./Items/Treasure Boots.png" width="64">|모험자들을 위해 개량된 가죽 부츠다.|민첩하게 움직일 수 있도록 만들어져서 그런지, 적의 허점을 쉽게 공략할 수 있을 것 같다.|착용 시 방어력이 5 증가하며, 크리티컬 확률이 2% 증가한다.|
+|22|청옥석|장신구|C|<img src="./Items/Sapphire Stone.png" width="64">|아름다운 청록색 보석이 박혀져 있는 목걸이이다.|이런 보석은 어떻게 얻는 거지?|착용 시 공격 성공이 6% 보정된다.|
+|23|대검|무기|B|<img src="./Items/Big Sword.png" width="64">|일반 검보다 더 강하고 묵직한 공격을 할 수 있다.|용사 일행은 대검을 사용하지 않았었지…|착용 시 공격력이 9 증가한다.|
+|24|은 주괴|부적|B|<img src="./Items/Silver Ingot.png" width="64">|은으로 만들어진 주괴이다.|은은 신비로운 능력이 담겨져 있다고 알려져 있는데… 이게 내게 행운을 줄 수도 있다.|착용 시 크리티컬 확률이 5% 증가한다.|
+|25|신선한 고기|소비|B|<img src="./Items/Fresh Meat.png" width="64">|질 좋은 고기다.|그들과 함께 먹은 고기가 가장 맛있었지.|사용 시 체력이 20 회복된다.|
+|26|열쇠|부적|B|<img src="./Items/Key.png" width="64">|누군가의 집 열쇠이다.|피가 묻어 있는 것을 보니 이미 이 열쇠의 주인은 죽은 것 같다. 그 원한은 내가 대신 갚아야겠지?|착용 시 크리티컬 데미지가 60% 증가한다.|
+|27|아이언 링|장신구|B|<img src="./Items/Iron Ring.png" width="64">|철로 만들어진 반지다.|이 쇠반지가 내게 큰 도움을 주었으면 한다.|착용 시 공격 성공이 5% 보정되며, 크리티컬 데미지가 30% 증가한다.|
+|28|실프 헬멧|갑옷|A|<img src="./Items/Sylph Helmets.png" width="64">|바람의 정령의 가호가 담긴 투구다.|바람의 정령의 힘으로 더 민첩하게 움직일 수 있을 것이다.|착용 시 방어력이 8 증가하며, 공격 성공이 5% 보정된다.|
+|29|은 갑옷|갑옷|A|<img src="./Items/Silver Armor.png" width="64">|은으로 만들어진 갑옷이다.|마물에게 있어서 은은 거의 독이나 다름없다. 하지만 나는 다르다. 다르다….|착용 시 방어력이 12 증가한다.|
+|30|트레저 팬츠|갑옷|A|<img src="./Items/Treasure Pants.png" width="64">|가벼운 가죽 재질의 바지다.|편하게 움직일 수 있어서 좋긴 한데… 내구성이 좋지가 않다.|착용 시 방어력이 7 증가하며, 크리티컬 확률이 2% 증가한다.|
 |31|기력의 간|소비|A|<img src="./Items/Power Liver.png" width="64">|
 |32|푸른 마법책|무기|A|<img src="./Items/Blue MagicBook.png" width="64">|
 |33|레이피어|무기|A|<img src="./Items/Rapier.png" width="64">|
