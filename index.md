@@ -207,98 +207,98 @@
 |58|전투 방패|무기|AH|<img src="./Items/Battle Shield.png" width="64">|방패로도 무기로도 적합한 도구다.|전사가 이걸로 마물을 내려찍던데… 나도 한 번 해볼까?|착용 시 공격력이 11 증가하며, 방어력이 5 증가한다.|
 |59|활|무기|AH|<img src="./Items/Bow.png" width="64">|마물을 죽이기에 적합한 활이다.|일반적인 활은 마물에게 생채기도 낼 수 없다. 하지만 이런 특별한 활을 사용한다면, 말이 달라지지.|착용 시 공격력이 13 증가하며, 크리티컬 확률이 3% 증가한다.|
 |60|천선어|소비|X|<img src="./Items/Sky Good Fish.png" width="64">|하늘에서도 살 수 있다고 알려져 있는 물고기다.|하늘처럼 착해지라는 의미의 물고기… 나도 이것을 먹으면 착해질 수 있을까?|사용 시 체력이 60 회복된다.|
-|61|바바리안 스워드|무기|S|<img src="./Items/Babarian Sword.png" width="64">|
-|62|마골|부적|S|<img src="./Items/Demon Skull.png" width="64">|
-|63|엘프 넥클레스|장신구|S|<img src="./Items/Elf Necklace.png" width="64">|
-|64|드워프 벨트|장신구|S|<img src="./Items/Dwarf Belt.png" width="64">|
-|65|고대서|무기|S|<img src="./Items/Ancient Book.png" width="64">|
-|66|아메시스 헬멧|갑옷|S|<img src="./Items/Amethyst Halmet.png" width="64">|
-|67|블루 트레저 팬츠|갑옷|S|<img src="./Items/Blue Treasure Pants.png" width="64">|
-|68|사우전드 우드 브레이서|장신구|S|<img src="./Items/Thousand Wood Barcers.png" width="64">|
-|69|금괴|부적|S|<img src="./Items/Gold Bar.png" width="64">|
-|70|라이트 해머|무기|X|<img src="./Items/Light Hammer.png" width="64">|
-|71|그로겔 이어링|장신구|L|<img src="./Items/Grogel Earrings.png" width="64">|
-|72|흉포한 도끼|무기|M|<img src="./Items/Brutal Axe.png" width="64">|
-|73|정제된 블루 스콜피온의 독|소비|G|<img src="./Items/Refined Blue Scorpion's Poison.png" width="64">|
-|74|독 빼낸 고기|소비|L|<img src="./Items/Meat Removed Poison.png" width="64">|
-|75|둠 아머|갑옷|L|<img src="./Items/Doom Armor.png" width="64">|
-|76|레드 에너지 팬츠|갑옷|M|<img src="./Items/Red Energy Pants.png" width="64">|
-|77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Filling Grudge.png" width="64">|
-|78|포이즌 블레이드|무기|M|<img src="./Items/Poison Blade.png" width="64">|
-|79|예리한 울프 스워드|무기|M|<img src="./Items/Sharp Wolf Sword.png" width="64">|
-|80|골검|무기|M|<img src="./Items/Bone Sword.png" width="64">|
-|81|라바 부츠|갑옷|M|<img src="./Items/Lava Boots.png" width="64">|
-|82|낡은 코인|부적|M|<img src="./Items/Old Coin.png" width="64">|
-|83|프로즌 랫 에너지 아머|갑옷|G|<img src="./Items/Frozen Rat Energy Armor.png" width="64">|
-|84|라스 웜의 가죽 장갑|갑옷|G|<img src="./Items/Wrath Wrom's Leather Gloves.png" width="64">|
-|85|불의 격통|무기|G|<img src="./Items/Throe Of Fire.png" width="64">|
-|86|검은 반지|장신구|G|<img src="./Items/Black Ring.png" width="64">|
-|87|투명한 엘릭서|소비|I|<img src="./Items/Invisible Elixir.png" width="64">|
-|88|스켈레톤 블레이드|무기|G|<img src="./Items/Skeleton Blade.png" width="64">|
-|89|원한 서린 코인|부적|G|<img src="./Items/Coin Clouding Grudge.png" width="64">|
-|90|크리스털 스파이더의 수정|장신구|Z|<img src="./Items/Crystal Spider's Crystal.png" width="64">|
-|91|리더 울프의 고기|소비|Z|<img src="./Items/Leader Wolf's Meat.png" width="64">|
-|92|남겨진 왕관|장신구|Z|<img src="./Items/Remanent Crown.png" width="64">|
-|93|매드 본웜의 갈비뼈|부적|Z|<img src="./Items/Mad BoneWorm's Ribs.png" width="64">|
-|94|어둠을 머금은 칼|무기|Z|<img src="./Items/Darkness Keep In The Sword.png" width="64">|
-|95|크리스털 스콜피온 쌍검|무기|Z|<img src="./Items/Crystal Scorpion's Twin Sword.png" width="64">|
-|96|마스터 케로베로스의 발톱|무기|Z|<img src="./Items/Master Cerberus's Nail.png" width="64">|
-|97|부정한 악마의 마법|부적|Z|<img src="./Items/Impure Demon's Magic.png" width="64">|
-|98|스포아의 이어링|장신구|M|<img src="./Items/Spoa's Earring.png" width="64">|
-|99|바드의 갑옷|갑옷|Z|<img src="./Items/Bard's Armor.png" width="64">|
-|100|켈트의 낡은 검|무기|I|<img src="./Items/Kelt's Old Sword.png" width="64">|
-|101|은 검|무기|H|<img src="./Items/Silver Sword.png" width="64">|
-|102|신성한 도끼|무기|H|<img src="./Items/Holy Axe.png" width="64">|
-|103|쌍검 베나리&세미타|무기|H|<img src="./Items/Twin Blade Venari&Semita.png" width="64">|
-|104|커트리스 보텀|무기|H|<img src="./Items/Cultass Votem.png" width="64">|
-|105|붉은 마법책|무기|X|<img src="./Items/Red MagicBook.png" width="64">|
-|106|크로니클 아머|갑옷|H|<img src="./Items/Cronicle Armor.png" width="64">|
-|107|세월의 갑옷|갑옷|H|<img src="./Items/Armor Of Time.png" width="64">|
-|108|홀리 헬멧|갑옷|H|<img src="./Items/Holy Helmet.png" width="64">|
-|109|풀아머드 헬멧|갑옷|L|<img src="./Items/Full Armored Helmet.png" width="64">|
-|110|비옥석|장신구|H|<img src="./Items/Flying Green Stone.png" width="64">|
-|111|에메랄드 링|장신구|X|<img src="./Items/Emerald Ring.png" width="64">|
-|112|투지의 보석 아니모|장신구|L|<img src="./Items/Jewel Of Fighting Spirit Animo.png" width="64">|
-|113|영웅의 동전|부적|H|<img src="./Items/Hero's Coins.png" width="64">|
-|114|성골|부적|H|<img src="./Items/Holy Bones.png" width="64">|
-|115|폐허의 씨앗|부적|X|<img src="./Items/Seed Of Ruins.png" width="64">|
-|116|설감육|소비|L|<img src="./Items/Meat Tasting like Snow.png" width="64">|
-|117|괴력의 갈비|소비|X|<img src="./Items/Rib Of Power.png" width="64">|
-|118|도마뱀 고기|소비|H|<img src="./Items/Lizard Meat.png" width="64">|
-|119|모어 헬스 포션|소비|H|<img src="./Items/More Health Potion.png" width="64">|
-|120|버닝 포션|소비|X|<img src="./Items/Burning Potion.png" width="64">|
-|121|마법 모자|가방|AH|<img src="./Items/Magic Hat.png" width="64">|
-|122|세이버|무기|X|<img src="./Items/Saber.png" width="64">|
-|123|세계수 활|무기|X|<img src="./Items/WorldTree Bow.png" width="64">|
-|124|에이션트 소드|무기|X|<img src="./Items/Anicent Sword.png" width="64">|
-|125|베네디캇|무기|M|<img src="./Items/Benedicat.png" width="64">|
-|126|다크 아머|갑옷|X|<img src="./Items/Dark Armor.png" width="64">|
-|127|노블 부츠|갑옷|X|<img src="./Items/Noble Boots.png" width="64">|
-|128|프로테가트|갑옷|X|<img src="./Items/Protegat.png" width="64">|
-|129|비르투스 넥클레스|장신구|X|<img src="./Items/Virtus Necklace.png" width="64">|
-|130|청결정 귀걸이|장신구|X|<img src="./Items/Blue Crystal Earrings.png" width="64">|
-|131|크레센트 링|장신구|M|<img src="./Items/Cresent Ring.png" width="64">|
-|132|아다만트|부적|X|<img src="./Items/Adamant.png" width="64">|
-|133|환상수의 뼈|부적|X|<img src="./Items/Dream Beast's Bones.png" width="64">|
-|134|용갑의 조각|부적|L|<img src="./Items/Dragon Armor's Piece.png" width="64">|
-|135|라이트닝 포션|소비|L|<img src="./Items/Lighting Potion.png" width="64">|
-|136|축복 포션|소비|L|<img src="./Items/Blessedness Potion.png" width="64">|
-|137|천상육|소비|M|<img src="./Items/Heaven Meat.png" width="64">|
-|138|라이트 액스|무기|L|<img src="./Items/Light Axe.png" width="64">|
-|139|데빌 브레이커|무기|L|<img src="./Items/Devil Breaker.png" width="64">|
-|140|스페스의 눈|무기|G|<img src="./Items/Eye Of Spes.PNG" width="64">|
-|141|플라시두스|갑옷|L|<img src="./Items/Placidus.png" width="64">|
-|142|홀리 아머|갑옷|L|<img src="./Items/Holy Armor.png" width="64">|
-|143|데스티니 로브|갑옷|M|<img src="./Items/Destiny Robe.png" width="64">|
-|144|축복의 반지|장신구|L|<img src="./Items/Blessedness Ring.png" width="64">|
-|145|크리스털 이어링|장신구|L|<img src="./Items/Crystal Earling.png" width="64">|
-|146|데몬 넥클레스|장신구|M|<img src="./Items/Demon Necklace.png" width="64">|
-|147|크루세이더 코인|부적|L|<img src="./Items/Crusader Coin.png" width="64">|
-|148|용사의 화살|부적|L|<img src="./Items/Hero'es Arrow.png" width="64">|
-|149|파이널 코인|부적|G|<img src="./Items/Final Coins.png" width="64">|
-|150|엔드 미트|소비|L|<img src="./Items/End Meat.png" width="64">|
-|151|어스 포션|소비|L|<img src="./Items/Earth Potion.png" width="64">|
-|152|로드 포션|소비|G|<img src="./Items/Lord Potion.png" width="64">|
+|61|바바리안 스워드|무기|S|<img src="./Items/Babarian Sword.png" width="64">|야만족들이 사용했다던 대검이다.|그래… 무기 성능 하나만큼은 끝내주는군.|착용 시 공격력이 18 증가하며, 크리티컬 데미지가 40% 증가하며, 크리티컬 확률이 3% 증가한다.|
+|62|마골|부적|S|<img src="./Items/Demon Skull.png" width="64">|악마의 두개골이다.|너희들의 원혼 따위 관심 없다.|착용 시 크리티컬 데미지가 95% 증가한다.|
+|63|엘프 넥클레스|장신구|S|<img src="./Items/Elf Necklace.png" width="64">|엘프들이 손수 만든 목걸이다.|이 보석이 이런 나에게도 힘을 주기를…|착용 시 공격 성공이 14% 보정된다.|
+|64|드워프 벨트|장신구|S|<img src="./Items/Dwarf Belt.png" width="64">|드워프들이 작업을 할 때 사용하는 벨트다.|…. 너무 작아서 팔찌로 쓸 수밖에 없다.|착용 시 공격 성공이 8% 보정되며, 크리티컬 데미지가 65% 증가한다.|
+|65|고대서|무기|S|<img src="./Items/Ancient Book.png" width="64">|고대에 사용했던 마법책이다.|내가 이 언어를 읽을 수 있어서 다행이다. 근데 고대서라고 현재에 있는 마법책과 다를 바가 거의 없다.|착용 시 공격력이 23 증가한다.|
+|66|아메시스 헬멧|갑옷|S|<img src="./Items/Amethyst Halmet.png" width="64">|자수정으로 만든 헬멧이다.|근데 이거… 보통 자수정이 아닌데… 이건 대체 뭐지?||
+|67|블루 트레저 팬츠|갑옷|S|<img src="./Items/Blue Treasure Pants.png" width="64">|푸른 슬라임에게서 얻을 수 있는 재질로 만든 바지다.|흐음… 조금 미끌거리긴 한데… 그래도 괜찮네. 더 빨리 움직일 수도 있고.|착용 시 방어력이 15 증가하며, 공격 성공이 6% 보정된다.|
+|68|사우전드 우드 브레이서|장신구|S|<img src="./Items/Thousand Wood Barcers.png" width="64">|천년목을 깎아 만든 보호대다.|강한 내구도를 가진 천년목이라… 엘프들이 이걸 알면 난리 나겠군. 천년목을 아끼는 종족이니까…|착용 시 공격 성공이 10% 보정되며, 방어력이 8 증가한다.|
+|69|금괴|부적|S|<img src="./Items/Gold Bar.png" width="64">|금으로 만들어진 주괴이다.|왜 사람들은 이 물건에 환장을 하는 것일까. 위험이 닥치면 결국 아무 것도 아닌 돌 덩이… 그 이하로 변하는데.|착용 시 크리티컬 확률이 14% 증가한다.|
+|70|라이트 해머|무기|X|<img src="./Items/Light Hammer.png" width="64">|빛을 머금은 강력한 망치다.|으으으윽…. 이… 이 빛 때문에 괴롭다…|착용 시 공격력이 30 증가하며, 크리티컬 데미지가 30% 증가한다.|
+|71|그로겔 이어링|장신구|L|<img src="./Items/Grogel Earrings.png" width="64">|그로겔에게서 얻을 수 있는 보석으로 만든 귀걸이다.|그로겔의 보석에는 착용자의 집중력을 올려주는 효과가 있다던데… 전설인지 아닌지 확인해볼까?|착용 시 공격 성공이 30% 보정된다.|
+|72|흉포한 도끼|무기|M|<img src="./Items/Brutal Axe.png" width="64">|흉포한 쥐의 기운이 담긴 도끼이다.|평범한 도끼처럼 보이는데, 이 도끼만 잡으면 이상하게도 괴력이 생긴다.|착용 시 공격력이 40 증가하며, 크리티컬 데미지가 160% 증가한다.|
+|73|정제된 블루 스콜피온의 독|소비|G|<img src="./Items/Refined Blue Scorpion's Poison.png" width="64">|블루 스콜피온의 독을 정제한 물약이다.|블루 스콜피온에 포함된 독만 뺀다면, 훌륭한 물약이 된다. 다만 정제가 엄청 힘들 뿐이지…|사용 시 체력이 100 회복된다.|
+|74|독 빼낸 고기|소비|L|<img src="./Items/Meat Removed Poison.png" width="64">|포이즌 웜에서 독을 빼낸 고기다.|이것을 먹으면 기력이 많이 회복된다고 하지만…. 사실은 근육을 강화시켜주는 것이다.|사용 시 영구적으로 공격력이 10 증가하며, 방어력이 10 증가한다.|
+|75|둠 아머|갑옷|L|<img src="./Items/Doom Armor.png" width="64">|블랙 울프의 사악한 에너지가 담겨 있는 흉갑이다.|이것을 입으면 타락한다고 하지만, 나에게는 통하지 않는다. 왜냐하면…. 아니다.|착용 시 방어력이 40 증가하며, 공격력이 15 증가한다.|
+|76|레드 에너지 팬츠|갑옷|M|<img src="./Items/Red Energy Pants.png" width="64">|레드 스파이더의 힘을 주입한 가죽 바지다.|….? 이거 뭐야. 왜 크기가 자유자재로 늘어나는 거지?|착용 시 방어력이 70 증가한다.|
+|77|원혼이 담긴 반지|장신구|M|<img src="./Items/Ring Filling Grudge.png" width="64">|서늘한 원혼이 느껴지는 반지다.|…! 그렇군. 이 영혼은 원래 인간의 영혼이었군… 아무래도 함께 싸우고 싶나 보다.|착용 시 공격 성공이 40% 보정되며, 공격력이 15 증가한다.|
+|78|포이즌 블레이드|무기|M|<img src="./Items/Poison Blade.png" width="64">|포이즌 그로겔에서 채취한 독을 바른 검이다.|독을 부여할 수는 없지만, 그래도 치명타를 더 줄 수는 있을 것 같다.|착용 시 공격력이 50 증가하며, 크리티컬 데미지가 200% 증가한다.|
+|79|예리한 울프 스워드|무기|M|<img src="./Items/Sharp Wolf Sword.png" width="64">|세 머리의 울프의 송곳니로 만든 검이다.|이빨이 마치 다이아몬드처럼 단단하군… 대체 이놈들은 어떻게 자신의 이빨을 관리하는 거지?|착용 시 공격력이 75 증가한다.|
+|80|골검|무기|M|<img src="./Items/Bone Sword.png" width="64">|본웜의 뼈로 만든 검이다.|본웜의 뼈는 단단하다고 알려져 있다. 그리고 그 송곳니는 어떠한 철보다 단단하다고 알려져있다. 그리고 이 송곳니는…. 스승이 사용했었다.|착용 시 공격력이 40 증가하며, 크리티컬 확률이 15% 증가하며, 크리티컬 데미지가 100% 증가한다.|
+|81|라바 부츠|갑옷|M|<img src="./Items/Lava Boots.png" width="64">|라바 슬라임의 정제된 액체로 씌여진 부츠다.|굳어진 용암의 견고함으로 이루어진 이 부츠는 견고한 기운을 온몸까지 퍼지게 만들어준다.|착용 시 방어력이 50 증가하며, 공격력이 10 증가하며& 크리티컬 확률이 5% 증가한다.|
+|82|낡은 코인|부적|M|<img src="./Items/Old Coin.png" width="64">|유령이 가지고 있던 동전이다.|아직 삶에 미련이 있는 것 같다. 적어도 내가 이 자를 대신해서 마왕을 무찌를 수 있다면…|착용 시 크리티컬 데미지가 350% 증가하며, 크리티컬 확률이 35% 증가한다.|
+|83|프로즌 랫 에너지 아머|갑옷|G|<img src="./Items/Frozen Rat Energy Armor.png" width="64">|프로즌 랫의 냉기를 머금고 있는 갑옷이다.|냉기가 체온을 조절시키고, 그 어떤 한기에서도 착용자를 보호해준다…. 왜 이런 것을 몰랐었지?|착용 시 방어력이 100 증가한다.|
+|84|라스 웜의 가죽 장갑|갑옷|G|<img src="./Items/Wrath Wrom's Leather Gloves.png" width="64">|난폭한 라스 웜에게서 얻을 수 있는 가죽으로 만든 장갑이다.|이걸 장착하면 라스 웜의 그 난폭함에 내게도 전해진다. 하지만 나는 정신을 차릴 거다. 그래야 한다.|착용 시 방어력이 80 증가하며, 공격력이 20 증가한다.|
+|85|불의 격통|무기|G|<img src="./Items/Throe Of Fire.png" width="64">|파이어 케로베로스가 사용하던 마법이다.|적의 무기로 적을 친다. 이런 전투 방법이 있었지, 참.|착용 시 공격력이 100 증가한다.|
+|86|검은 반지|장신구|G|<img src="./Items/Black Ring.png" width="64">|불안정한 원혼에게 얻을 수 있는 반지다.|이 반지에는 그 원혼이 겪은 고통이 그대로 담겨 있다. 그 고통에 대한 복수는 내가 이어받겠다.|착용 시 공격 성공이 55% 보정된다.|
+|87|투명한 엘릭서|소비|I|<img src="./Items/Invisible Elixir.png" width="64">|디스커스팅 본웜의 소화액을 정제해서 만든 물약이다.|최강의 물약이라고 불리는 엘릭서보다 효율이 더 좋다…. 너무 좋은 거 아니야? 소화액이….|사용 시 체력이 200 회복된다.|
+|88|스켈레톤 블레이드|무기|G|<img src="./Items/Skeleton Blade.png" width="64">|스켈레톤이 사용하던 검이다.|수많은 유골로 만들어진 이 뼈에는 많은 원혼이 안에 도사리고 있다.|착용 시 공격력이 80 증가하며, 크리티컬 데미지가 180% 증가한다.|
+|89|원한 서린 코인|부적|G|<img src="./Items/Coin Clouding Grudge.png" width="64">|아직 세상에 미련이 있는 유령의 물건이다.|얼마나 많은 한이 있길래…. 이 의지는 내가 이어가야겠다.|착용 시 크리티컬 확률이 60% 증가하며, 방어력이 20 증가하며, 공격 성공이 20% 증가한다.|
+|90|크리스털 스파이더의 수정|장신구|Z|<img src="./Items/Crystal Spider's Crystal.png" width="64">|크리스털 스파이더에게 박혀 있던 보석이다.|이 보석은 대체 뭐지…? 빼내니까 초록색으로 변했어…|착용 시 공격 성공이 75% 보정된다.|
+|91|리더 울프의 고기|소비|Z|<img src="./Items/Leader Wolf's Meat.png" width="64">|리더 울프에게서 얻을 수 있는 고기다.|이 고기를 먹으면 많은 힘을 얻을 수 있다지…!|사용 시 영구적으로 공격력이 15 증가하며, 방어력이 15 증가하며, 공격 성공이 5% 보정되며, 크리티컬 데미지가 150% 증가하며, 크리티컬 확률이 5% 증가한다.|
+|92|남겨진 왕관|장신구|Z|<img src="./Items/Remanent Crown.png" width="64">|이미 멸망해서 사라진 어떤 한 왕국의 마지막 보물인 왕관이다.|그럼 이걸 가지고 있던 원혼의 주인은… 편히 쉬십시오.|착용 시 공격 성공이 50% 보정되며, 공격력이 25 증가하며, 방어력이 25 증가한다.|
+|93|매드 본웜의 갈비뼈|부적|Z|<img src="./Items/Mad BoneWorm's Ribs.png" width="64">|매드 본웜에게서 얻을 수 있는 갈비뼈이다.|이것도 자의가 아닌 타의로 움직이던 생물이었나… 편히 쉬어라.|착용 시 크리티컬 확률이 60% 증가하며, 크리티컬 데미지가 500% 증가한다.|
+|94|어둠을 머금은 칼|무기|Z|<img src="./Items/Darkness Keep In The Sword.png" width="64">|다크니스 그로겔의 액체에 하루 이상 담가둔 검이다.|…. 대체 이 생물은 정체가 뭐였지? 액체에 그저 검만 담갔을 뿐인데…. 검이 어둠에 물들었어.|착용 시 공격력이 150 증가한다.|
+|95|크리스털 스콜피온 쌍검|무기|Z|<img src="./Items/Crystal Scorpion's Twin Sword.png" width="64">|크리스털 스콜피온에 박혀 있던 수정으로 만든 쌍검이다.|마왕은 대체 무슨 일을 꾸미고 있는 거지? 이 보석은 대체…|착용 시 공격력이 100 증가하며, 공격 성공이 25% 보정된다.|
+|96|마스터 케로베로스의 발톱|무기|Z|<img src="./Items/Master Cerberus's Nail.png" width="64">|마스터 케로베로스에게 얻을 수 있는 발톱으로 만든 검이다.|이런 케로베로스는 난생 처음 보는데… 게다가 이 발톱은…. 뭔데 이리 날카롭지?|착용 시 공격력이 75 증가하며, 방어력이 50 증가하며, 크리티컬 확률이 20% 증가한다.|
+|97|부정한 악마의 마법|부적|Z|<img src="./Items/Impure Demon's Magic.png" width="64">|부정한 악마가 사용하던 마법이다.|적응하자… 안 그러면…. 나도 이 마법에 의식을 빼앗기고 말 것이다…!!|착용 시 크리티컬 데미지가 1500% 증가한다.|
+|98|스포아의 이어링|장신구|M|<img src="./Items/Spoa's Earring.png" width="64">|스포아가 귀에 착용하고 있던 귀걸이이다.|뭐지? 이 귀걸이에 박힌 보석… 평범한 물건은 아닌 것 같은데? 이 녀석 마왕의 수하이지 않았나?|착용 시 공격 성공이 30% 보정되며, 크리티컬 확률이 15% 증가한다.|
+|99|바드의 갑옷|갑옷|Z|<img src="./Items/Bard's Armor.png" width="64">|바드가 숨겨 두었던 갑옷이다.|마왕의 수하인데 왜 이런 갑옷을 숨겨 두고 있던 것이지? 그냥 자신이 쓰면 될 것을…|착용 시 방어력이 125 증가하며, 공격력이 10 증가하며, 크리티컬 데미지가 515% 증가한다.|
+|100|켈트의 낡은 검|무기|I|<img src="./Items/Kelt's Old Sword.png" width="64">|켈트가 사용하고 있던 검이다.|보통 스켈레톤의 검과는 차원이 다르다. 역시 마왕의 친위대는 친위대라는 건가….|착용 시 공격력이 100 증가하며, 크리티컬 데미지가 400% 증가하며, 크리티컬 확률이 40% 증가한다.|
+|101|은 검|무기|H|<img src="./Items/Silver Sword.png" width="64">|은으로 만들어진 검이다.|은은 악을 내쫓는다고 하지. 그래서 인간들은 은에다가 여러 마법을 걸어 놓는다고 하던데… 이것도 그러네.|착용 시 공격력이 25 증가하며, 크리티컬 데미지가 20% 증가한다.|
+|102|신성한 도끼|무기|H|<img src="./Items/Holy Axe.png" width="64">|신성력이 담긴 도끼다.|나도 신성력을 견딜 수 있다고…!! 그 사람들이 내 스승인 이상…!!|착용 시 공격력이 30 증가한다.|
+|103|쌍검 베나리&세미타|무기|H|<img src="./Items/Twin Blade Venari&Semita.png" width="64">|한 영웅이 애용하던 쌍검이다.|당신의 그 힘을 내게도 주십시오. 모든 마족 병사들을 섬멸하기 위해서.|착용 시 공격력이 20 증가하며, 공격 성공이 10% 보정된다.|
+|104|커트리스 보텀|무기|H|<img src="./Items/Cultass Votem.png" width="64">|위대한 대장장이의 이름을 이어받은 검이다.|그 대장장이가 마족일 거라는 것을, 인간들은 전혀 모른다.|착용 시 공격력이 30 증가하며, 크리티컬 확률이 10% 증가한다.|
+|105|붉은 마법책|무기|X|<img src="./Items/Red MagicBook.png" width="64">|나의 스승인 마법사가 사용하던 책들 중 하나다.|제게 힘을 주세요, 스승님. 인간들을 구하기 위해서.|착용 시 공격력이 35 증가한다.|
+|106|크로니클 아머|갑옷|H|<img src="./Items/Cronicle Armor.png" width="64">|여러 연대기에서 등장하는 유명한 갑옷이다.|마족에게도 공포로 알려진 그 갑옷인가… 유용하겠는걸.|착용 시 방어력이 20 증가하며, 크리티컬 확률이 5% 증가한다.|
+|107|세월의 갑옷|갑옷|H|<img src="./Items/Armor Of Time.png" width="64">|세월의 흔적이 그대로 남아 있는 고대의 갑옷이다.|사람의 세월… 그것도 수많은 사람들의 세월이 느껴진다.|착용 시 방어력이 23 증가한다.|
+|108|홀리 헬멧|갑옷|H|<img src="./Items/Holy Helmet.png" width="64">|신성한 힘이 담겨져 있는 투구다.|어차피 나는 수명이 얼마 남지 않았다. 목숨을 깎을 각오로 사용하자.|착용 시 방어력이 20 증가하며, 크리티컬 데미지가 50% 증가한다.|
+|109|풀아머드 헬멧|갑옷|L|<img src="./Items/Full Armored Helmet.png" width="64">|강력한 강철로 만들어진 투구다.|이 투구는 모든 갑옷을 더 단단해지는 능력이 있다지? 좋아…|착용 시 방어력이 40 증가한다.|
+|110|비옥석|장신구|H|<img src="./Items/Flying Green Stone.png" width="64">|하늘로 승천할 수 있다는 전설의 보석이다.|나도 하늘을 날 수 있을까…?|착용 시 공격 성공이 18% 보정된다.|
+|111|에메랄드 링|장신구|X|<img src="./Items/Emerald Ring.png" width="64">|전설에 나오는 에메랄드 반지다.|전설의 반지…. 근데 힘이 조금 빠져나간 것 같네… 왜지?|착용 시 공격 성공이 15% 보정되며, 크리티컬 확률이 5% 증가한다.|
+|112|투지의 보석 아니모|장신구|L|<img src="./Items/Jewel Of Fighting Spirit Animo.png" width="64">|투지를 준다는 보석인 아니모로 만들어진 귀걸이다.|힘이… 넘쳐난다…!!|착용 시 공격 성공이 15% 보정되며, 공격력이 5 증가하며, 크리티컬 확률이 50% 증가한다.|
+|113|영웅의 동전|부적|H|<img src="./Items/Hero's Coins.png" width="64">|영웅들이 가지고 다녔다던 동전이다.|제게 힘을 주세요, 스승님들….!!|착용 시 크리티컬 데미지가 120% 증가한다.|
+|114|성골|부적|H|<img src="./Items/Holy Bones.png" width="64">|성스러운 힘이 남아 있는 유골이다.|천사의 유골인가? 야수의 유골 같아 보이는데, 왜 신성력이 느껴지지?|착용 시 크리티컬 확률이 18% 증가한다.|
+|115|폐허의 씨앗|부적|X|<img src="./Items/Seed Of Ruins.png" width="64">|폐허에서 자란다는 어떤 식물의 씨앗이다.|이 씨앗이 멸망한 문명에서만 발견되어서 폐허 속 희망이라 불린다지? 내게도 희망이 있기를…|착용 시 크리티컬 데미지가 100% 증가하며, 크리티컬 확률이 10% 증가한다.|
+|116|설감육|소비|L|<img src="./Items/Meat Tasting like Snow.png" width="64">|식감이 눈과 같다는 부드러운 고기다.|이게 내 마지막 만찬이 되지 않기를….||
+|117|괴력의 갈비|소비|X|<img src="./Items/Rib Of Power.png" width="64">|괴력을 낼 수 있도록 도와준다는 갈비다.|…. 맛은 뭔가 없는데?|사용 시 영구적으로 공격력이 1 증가하며, 크리티컬 데미지가 15% 증가한다.|
+|118|도마뱀 고기|소비|H|<img src="./Items/Lizard Meat.png" width="64">|어떤 신화에 나온다는 도마뱀의 고기다.|의외로 맛이 있네…. 구우니까 더 맛있고. 그나저나 이 고기가 내성을 키워준다고 했지?|사용 시 영구적으로 방어력이 2 증가한다.|
+|119|모어 헬스 포션|소비|H|<img src="./Items/More Health Potion.png" width="64">|체력 포션의 아종이다.|이거 근데 뭘로 만든 거지…?|사용 시 영구적으로 체력이 10 증가한다.|
+|120|버닝 포션|소비|X|<img src="./Items/Burning Potion.png" width="64">|불타오르는 정수인 아벡을 정제해서 만든 포션이다.|아… 상쾌해지는 기분이야.|사용 시 영구적으로 공격 성공이 2% 증가한다.|
+|121|마법 모자|가방|AH|<img src="./Items/Magic Hat.png" width="64">||||
+|122|세이버|무기|X|<img src="./Items/Saber.png" width="64">||||
+|123|세계수 활|무기|X|<img src="./Items/WorldTree Bow.png" width="64">||||
+|124|에이션트 소드|무기|X|<img src="./Items/Anicent Sword.png" width="64">||||
+|125|베네디캇|무기|M|<img src="./Items/Benedicat.png" width="64">||||
+|126|다크 아머|갑옷|X|<img src="./Items/Dark Armor.png" width="64">||||
+|127|노블 부츠|갑옷|X|<img src="./Items/Noble Boots.png" width="64">||||
+|128|프로테가트|갑옷|X|<img src="./Items/Protegat.png" width="64">||||
+|129|비르투스 넥클레스|장신구|X|<img src="./Items/Virtus Necklace.png" width="64">||||
+|130|청결정 귀걸이|장신구|X|<img src="./Items/Blue Crystal Earrings.png" width="64">||||
+|131|크레센트 링|장신구|M|<img src="./Items/Cresent Ring.png" width="64">||||
+|132|아다만트|부적|X|<img src="./Items/Adamant.png" width="64">||||
+|133|환상수의 뼈|부적|X|<img src="./Items/Dream Beast's Bones.png" width="64">||||
+|134|용갑의 조각|부적|L|<img src="./Items/Dragon Armor's Piece.png" width="64">||||
+|135|라이트닝 포션|소비|L|<img src="./Items/Lighting Potion.png" width="64">||||
+|136|축복 포션|소비|L|<img src="./Items/Blessedness Potion.png" width="64">||||
+|137|천상육|소비|M|<img src="./Items/Heaven Meat.png" width="64">||||
+|138|라이트 액스|무기|L|<img src="./Items/Light Axe.png" width="64">||||
+|139|데빌 브레이커|무기|L|<img src="./Items/Devil Breaker.png" width="64">||||
+|140|스페스의 눈|무기|G|<img src="./Items/Eye Of Spes.PNG" width="64">||||
+|141|플라시두스|갑옷|L|<img src="./Items/Placidus.png" width="64">||||
+|142|홀리 아머|갑옷|L|<img src="./Items/Holy Armor.png" width="64">||||
+|143|데스티니 로브|갑옷|M|<img src="./Items/Destiny Robe.png" width="64">||||
+|144|축복의 반지|장신구|L|<img src="./Items/Blessedness Ring.png" width="64">||||
+|145|크리스털 이어링|장신구|L|<img src="./Items/Crystal Earling.png" width="64">||||
+|146|데몬 넥클레스|장신구|M|<img src="./Items/Demon Necklace.png" width="64">||||
+|147|크루세이더 코인|부적|L|<img src="./Items/Crusader Coin.png" width="64">||||
+|148|용사의 화살|부적|L|<img src="./Items/Hero'es Arrow.png" width="64">||||
+|149|파이널 코인|부적|G|<img src="./Items/Final Coins.png" width="64">||||
+|150|엔드 미트|소비|L|<img src="./Items/End Meat.png" width="64">||||
+|151|어스 포션|소비|L|<img src="./Items/Earth Potion.png" width="64">||||
+|152|로드 포션|소비|G|<img src="./Items/Lord Potion.png" width="64">||||
 
 ### a-2.몬스터
 |연번|오브젝트 이름|등장 챕터|등급|오브젝트 이미지|
