@@ -197,16 +197,16 @@
 |48|라피스 라줄리 목걸이|장신구|AH|<img src="./Items/Lapis Lazuli Necklace.png" width="64">|청금석으로 만들어진 목걸이다.|청금석으로 수정 구슬을 만든다고 할 정도로 청금석에는 예지의 힘이 깃들어 있다고들 한다.|착용 시 공격 성공이 9% 보정된다.|
 |49|철갑 갑피|갑옷|AH|<img src="./Items/Armor Upper.png" width="64">|철로 만들어진 갑주다.|펼치면 온몸을 보호할 수 있는 장비라… 쓸만하겠는데?|착용 시 방어력이 12 증가하며, 공격 성공이 4% 보정된다.|
 |50|힘의 물약|장신구|A|<img src="./Items/Potion Of Power.png" width="64">|마시면 힘이 강해진다는 물약이다.|이것의 재료는 만드라고라에… 아니다… 더 알고 싶지 않아.|사용 시 영구적으로 공격력이 2 증가한다.|
-|51|인내의 물약|소비|A|<img src="./Items/Potion Of Speed.png" width="64">|
-|52|집중의 물약|소비|AH|<img src="./Items/Potion Of Concentration.png" width="64">|
-|53|괴력육|소비|A|<img src="./Items/Monster Power Meat.png" width="64">|
-|54|월도|무기|AH|<img src="./Items/Glaive.png" width="64">|
-|55|기력버섯|소비|S|<img src="./Items/Power Mushroom.png" width="64">|
-|56|하프 엘릭서|소비|H|<img src="./Items/Half Elixir.png" width="64">|
-|57|누군가의 쪽지|부적|S|<img src="./Items/Someone's Letter.png" width="64">|
-|58|전투 방패|무기|AH|<img src="./Items/Battle Shield.png" width="64">|
-|59|활|무기|AH|<img src="./Items/Bow.png" width="64">|
-|60|천선어|소비|X|<img src="./Items/Sky Good Fish.png" width="64">|
+|51|인내의 물약|소비|A|<img src="./Items/Potion Of Speed.png" width="64">|마시면 몸이 더 견고해진다는 물약이다.|이건 마물들이 자주 마시던 거다. 그러니 나도 부작용이 일어나진 않는다.|사용 시 영구적으로 체력이 1 증가한다.|
+|52|집중의 물약|소비|AH|<img src="./Items/Potion Of Concentration.png" width="64">|마시면 집중력이 올라간다는 물약이다.|스승님께서는 이런 것을 마시지 말라고 하셨지만… 지금은 상황이 다르다.|사용 시 영구적으로 크리티컬 확률이 1% 증가한다.|
+|53|괴력육|소비|A|<img src="./Items/Monster Power Meat.png" width="64">|먹으면 순간적인 괴력을 낼 수 있다는 고기다.|대체 인간들은 이런 것을 어떻게 만들어 낸 거지?|사용 시 영구적으로 크리티컬 데미지가 30% 증가한다.|
+|54|월도|무기|AH|<img src="./Items/Glaive.png" width="64">|자루가 긴 칼이다.|창과 검의 숙련도가 필요한 도구라…. 그래도 성능 하나는 쓸만하군.|착용 시 공격력이 18 증가한다.|
+|55|기력버섯|소비|S|<img src="./Items/Power Mushroom.png" width="64">|먹으면 기력이 회복된다는 버섯이다.|웬만한 고기보다 영양분이 풍부하다고 하던데….|사용 시 체력이 40 회복된다.|
+|56|하프 엘릭서|소비|H|<img src="./Items/Half Elixir.png" width="64">|좋은 약초만을 모아 만든 전설의 물약이다.|엘릭서보다 효력이 낮지만… 그래도 웬만한 포션보단 좋다고 알려져 있다.|사용 시 체력이 50 회복된다.|
+|57|누군가의 쪽지|부적|S|<img src="./Items/Someone's Letter.png" width="64">|누군가가 남긴 쪽지다.|강력한 한이 이 쪽지에 감돌고 있다. 내용이…. 사랑하는 아내… 아니다. 여기까지만 읽자.|착용 시 크리티컬 데미지가 85% 증가한다.|
+|58|전투 방패|무기|AH|<img src="./Items/Battle Shield.png" width="64">|방패로도 무기로도 적합한 도구다.|전사가 이걸로 마물을 내려찍던데… 나도 한 번 해볼까?|착용 시 공격력이 11 증가하며, 방어력이 5 증가한다.|
+|59|활|무기|AH|<img src="./Items/Bow.png" width="64">|마물을 죽이기에 적합한 활이다.|일반적인 활은 마물에게 생채기도 낼 수 없다. 하지만 이런 특별한 활을 사용한다면, 말이 달라지지.|착용 시 공격력이 13 증가하며, 크리티컬 확률이 3% 증가한다.|
+|60|천선어|소비|X|<img src="./Items/Sky Good Fish.png" width="64">|하늘에서도 살 수 있다고 알려져 있는 물고기다.|하늘처럼 착해지라는 의미의 물고기… 나도 이것을 먹으면 착해질 수 있을까?|사용 시 체력이 60 회복된다.|
 |61|바바리안 스워드|무기|S|<img src="./Items/Babarian Sword.png" width="64">|
 |62|마골|부적|S|<img src="./Items/Demon Skull.png" width="64">|
 |63|엘프 넥클레스|장신구|S|<img src="./Items/Elf Necklace.png" width="64">|
