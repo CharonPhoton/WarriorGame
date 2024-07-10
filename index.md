@@ -301,50 +301,50 @@
 |152|로드 포션|소비|G|<img src="./Items/Lord Potion.png" width="64">|일부 나라의 왕들이 마신다는 물약이다.|나는 왕이 될 생각이 없다. 그저 이 물약에 담긴 효능을 위해서 이것을 마시는 거다…!|사용 시 영구적으로 공격력이 4 증가하며, 크리티컬 데미지가 70% 증가한다.|
 
 ### a-2.몬스터
-|연번|오브젝트 이름|등장 챕터|등급|오브젝트 이미지|
-|:----:|:----:|:----:|:----:|:----:|
-|1|슬라임|챕터 1|일반|<img src="./Monsters/Slime.png" width="64">|
-|2|거대 들쥐|챕터 1|일반|<img src="./Monsters/Big Rat.png" width="64">|
-|3|들판 거미|챕터 1|일반|<img src="./Monsters/Field Spider.png" width="64">|
-|4|그린 슬라임|챕터 1|일반|<img src="./Monsters/Green Slime.png" width="64">|
-|5|블루 울프|챕터 1|일반|<img src="./Monsters/Blue Wolf.png" width="64">|
-|6|블랙 슬라임|챕터 2|일반|<img src="./Monsters/Black Slime.png" width="64">|
-|7|숲 전갈|챕터 2|일반|<img src="./Monsters/Froest Scorpion.png" width="64">|
-|8|그린 울프|챕터 2|일반|<img src="./Monsters/Green Wolf.png" width="64">|
-|9|포이즌 스파이더|챕터 2|일반|<img src="./Monsters/Poison Spider.png" width="64">|
-|10|티스 웜|챕터 2|일반|<img src="./Monsters/Teeth Worm.png" width="64">|
-|11|킹즈 아이|챕터 2|보스|<img src="./Monsters/King's Eye.png" width="64">|
-|12|그로겔|챕터 3|일반|<img src="./Monsters/Grogel.png" width="64">|
-|13|흉포한 쥐|챕터 3|일반|<img src="./Monsters/Brutal Rat.png" width="64">|
-|14|블루 스콜피온|챕터 3|일반|<img src="./Monsters/Blue Scorpion.png" width="64">|
-|15|포이즌 웜|챕터 3|일반|<img src="./Monsters/Poison Worm.png" width="64">|
-|16|블랙 울프|챕터 3|일반|<img src="./Monsters/Black Wolf.png" width="64">|
-|17|버섯인간 스포아|챕터 3|보스|<img src="./Monsters/Mushroom Man Spoar.png" width="64">|
-|18|레드 스파이더|챕터 4|일반|<img src="./Monsters/Red Spider.png" width="64">|
-|19|서늘한 원혼|챕터 4|일반|<img src="./Monsters/Cool Revengeful Spirit.png" width="64">|
-|20|포이즌 그로겔|챕터 4|일반|<img src="./Monsters/Poison Grogel.png" width="64">|
-|21|세 머리의 울프|챕터 4|일반|<img src="./Monsters/Three Headed Wolf.png" width="64">|
-|22|본웜|챕터 4|일반|<img src="./Monsters/BoneWorm.png" width="64">|
-|23|라바 슬라임|챕터 4|일반|<img src="./Monsters/Lava Slime.png" width="64">|
-|24|유령|챕터 4|일반|<img src="./Monsters/Ghost.png" width="64">|
-|25|고블린 바드|챕터 4|보스|<img src="./Monsters/Goblin Vard.png" width="64">|
-|26|프로즌 랫|챕터 5|일반|<img src="./Monsters/Frozen Rat.png" width="64">|
-|27|라스 웜|챕터 5|일반|<img src="./Monsters/Wrath Worm.png" width="64">|
-|28|파이어 케로베로스|챕터 5|일반|<img src="./Monsters/Fire Cerberus.png" width="64">|
-|29|불안정한 원혼|챕터 5|일반|<img src="./Monsters/Unstable Revengeful Spirit.png" width="64">|
-|30|디스커스팅 본웜|챕터 5|일반|<img src="./Monsters/Disgusting BoneWorm.png" width="64">|
-|31|스켈레톤|챕터 5|일반|<img src="./Monsters/Skeleton.png" width="64">|
-|32|원한의 유령|챕터 5|일반|<img src="./Monsters/Revengeful Ghost.png" width="64">|
-|33|해골전사 켈트|챕터 5|보스|<img src="./Monsters/Skull Warrior Kelt.png" width="64">|
-|34|크리스털 스파이더|챕터 6|일반|<img src="./Monsters/Crystal Spider.png" width="64">|
-|35|리더 울프|챕터 6|일반|<img src="./Monsters/Leader Wolf.png" width="64">|
-|36|사무친 원혼|챕터 6|일반|<img src="./Monsters/Bitter Grudge Soul.png" width="64">|
-|37|매드 본웜|챕터 6|일반|<img src="./Monsters/Mad BonWorm.png" width="64">|
-|38|다크니스 그로겔|챕터 6|일반|<img src="./Monsters/Darkness Grogel.png" width="64">|
-|39|크리스털 스콜피온|챕터 6|일반|<img src="./Monsters/Crystal Scorpion.png" width="64">|
-|40|마스터 케로베로스|챕터 6|일반|<img src="./Monsters/Master Cerberus.png" width="64">|
-|41|부정한 악마|챕터 6|일반|<img src="./Monsters/Null Demon.png" width="64">|
-|42|마왕|스테이지 150|보스|<img src="./Monsters/Devil King.png" width="64">|
+|연번|오브젝트 이름|등장 챕터|등급|오브젝트 이미지|체력|공격력|반격 확률|치명타 반격 확률|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|1|슬라임|챕터 1|일반|<img src="./Monsters/Slime.png" width="64">|30|6|20|13|
+|2|거대 들쥐|챕터 1|일반|<img src="./Monsters/Big Rat.png" width="64">|40|8|25|13|
+|3|들판 거미|챕터 1|일반|<img src="./Monsters/Field Spider.png" width="64">|36|7|25|18|
+|4|그린 슬라임|챕터 1|일반|<img src="./Monsters/Green Slime.png" width="64">|54|10|35|13|
+|5|블루 울프|챕터 1|일반|<img src="./Monsters/Blue Wolf.png" width="64">|35|7|43|0|
+|6|블랙 슬라임|챕터 2|일반|<img src="./Monsters/Black Slime.png" width="64">|72|13|35|13|
+|7|숲 전갈|챕터 2|일반|<img src="./Monsters/Froest Scorpion.png" width="64">|45|22|30|14|
+|8|그린 울프|챕터 2|일반|<img src="./Monsters/Green Wolf.png" width="64">|63|11|50|14|
+|9|포이즌 스파이더|챕터 2|일반|<img src="./Monsters/Poison Spider.png" width="64">|75|15|35|19|
+|10|티스 웜|챕터 2|일반|<img src="./Monsters/Teeth Worm.png" width="64">|95|10|40|14|
+|11|킹즈 아이|챕터 2|보스|<img src="./Monsters/King's Eye.png" width="64">|250|20|45|19|
+|12|그로겔|챕터 3|일반|<img src="./Monsters/Grogel.png" width="64">|95|20|40|15|
+|13|흉포한 쥐|챕터 3|일반|<img src="./Monsters/Brutal Rat.png" width="64">|145|24|35|15|
+|14|블루 스콜피온|챕터 3|일반|<img src="./Monsters/Blue Scorpion.png" width="64">|160|31|30|20|
+|15|포이즌 웜|챕터 3|일반|<img src="./Monsters/Poison Worm.png" width="64">|200|25|40|25|
+|16|블랙 울프|챕터 3|일반|<img src="./Monsters/Black Wolf.png" width="64">|145|20|50|15|
+|17|버섯인간 스포아|챕터 3|보스|<img src="./Monsters/Mushroom Man Spoar.png" width="64">|400|24|50|25|
+|18|레드 스파이더|챕터 4|일반|<img src="./Monsters/Red Spider.png" width="64">|150|28|35|15|
+|19|서늘한 원혼|챕터 4|일반|<img src="./Monsters/Cool Revengeful Spirit.png" width="64">|125|32|32|20|
+|20|포이즌 그로겔|챕터 4|일반|<img src="./Monsters/Poison Grogel.png" width="64">|160|35|36|18|
+|21|세 머리의 울프|챕터 4|일반|<img src="./Monsters/Three Headed Wolf.png" width="64">|110|25|55|15|
+|22|본웜|챕터 4|일반|<img src="./Monsters/BoneWorm.png" width="64">|180|27|30|25|
+|23|라바 슬라임|챕터 4|일반|<img src="./Monsters/Lava Slime.png" width="64">|165|40|40|18|
+|24|유령|챕터 4|일반|<img src="./Monsters/Ghost.png" width="64">|100|45|45|25|
+|25|고블린 바드|챕터 4|보스|<img src="./Monsters/Goblin Vard.png" width="64">|675|38|60|25|
+|26|프로즌 랫|챕터 5|일반|<img src="./Monsters/Frozen Rat.png" width="64">|230|40|45|30|
+|27|라스 웜|챕터 5|일반|<img src="./Monsters/Wrath Worm.png" width="64">|320|30|45|25|
+|28|파이어 케로베로스|챕터 5|일반|<img src="./Monsters/Fire Cerberus.png" width="64">|200|35|60|20|
+|29|불안정한 원혼|챕터 5|일반|<img src="./Monsters/Unstable Revengeful Spirit.png" width="64">|160|60|45|20|
+|30|디스커스팅 본웜|챕터 5|일반|<img src="./Monsters/Disgusting BoneWorm.png" width="64">|290|55|55|28|
+|31|스켈레톤|챕터 5|일반|<img src="./Monsters/Skeleton.png" width="64">|255|45|50|25|
+|32|원한의 유령|챕터 5|일반|<img src="./Monsters/Revengeful Ghost.png" width="64">|185|45|50|30|
+|33|해골전사 켈트|챕터 5|보스|<img src="./Monsters/Skull Warrior Kelt.png" width="64">|1000|50|65|35|
+|34|크리스털 스파이더|챕터 6|일반|<img src="./Monsters/Crystal Spider.png" width="64">|300|68|50|35|
+|35|리더 울프|챕터 6|일반|<img src="./Monsters/Leader Wolf.png" width="64">|350|50|75|30|
+|36|사무친 원혼|챕터 6|일반|<img src="./Monsters/Bitter Grudge Soul.png" width="64">|250|75|55|30|
+|37|매드 본웜|챕터 6|일반|<img src="./Monsters/Mad BonWorm.png" width="64">|600|45|45|26|
+|38|다크니스 그로겔|챕터 6|일반|<img src="./Monsters/Darkness Grogel.png" width="64">|400|60|60|30|
+|39|크리스털 스콜피온|챕터 6|일반|<img src="./Monsters/Crystal Scorpion.png" width="64">|400|40|60|40|
+|40|마스터 케로베로스|챕터 6|일반|<img src="./Monsters/Master Cerberus.png" width="64">|550|70|65|35|
+|41|부정한 악마|챕터 6|일반|<img src="./Monsters/Null Demon.png" width="64">|500|45|70|26|
+|42|마왕|스테이지 150|보스|<img src="./Monsters/Devil King.png" width="64">|2500|99|80|50|
 
 ## b. 파라미터(속성) 뽑아 보기<a name='6-2'></a>
 
