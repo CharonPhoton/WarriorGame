@@ -1485,3 +1485,6 @@
 <video width="100%" height="100%" controls="controls">
   <source src="./video/week38.mp4" type="video/mp4" />
 </video>
+
+전투 연출이 변경되었고, 수리석이 추가되어서 장비 관리가 조금은 수월해졌다.
+이제 다음 주부터는 마법 아이템 제작에 착수할 예정이다.
