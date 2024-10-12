@@ -1,4 +1,7 @@
 # 프로젝트명: Warrior is just going (Devloper : Photon)
+다운로드 :
+PC : https://drive.google.com/file/d/1EBfGLjvj2keokfk_9s7Cbga4FIT6sjbw/view?usp=drive_link
+Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view?usp=drive_link
 
 # [ 목차 ]
 
