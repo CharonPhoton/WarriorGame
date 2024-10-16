@@ -1707,4 +1707,11 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 
 다음에는 번개 마법의 추가와 무기의 다양성 패치가 시작될 예정이다.
 
+### [6주차 구현과정]
 
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week43.mp4" type="video/mp4" />
+</video>
+
+번개 속성 마법이 추가되었다.
+다음에는 플레이어에게 잔류 효과가 남는 마법이 추가될 예정이며, 무기 타입에 따라서 연출을 다르게 만들 예정이다.
