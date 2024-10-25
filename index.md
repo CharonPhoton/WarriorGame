@@ -1804,3 +1804,26 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 
 번개 속성 마법이 추가되었다.
 다음에는 플레이어에게 잔류 효과가 남는 마법이 추가될 예정이며, 무기 타입에 따라서 연출을 다르게 만들 예정이다.
+
+
+### [7주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week44-2-1.mp4" type="video/mp4" />
+</video>
+
+이제 무기마다 이펙트가 달라지도록 변경되었다.
+지팡이 무기는 이후에 추가될 예정이다.
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week44-2-2.mp4" type="video/mp4" />
+</video>
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week44-3.mp4" type="video/mp4" />
+</video>
+
+새로운 상태이상과 잔류 효과가 대거 추가되었다.
+이제 다양한 방식으로 전투를 치룰 수 있도록 바뀌었다.
+
+이제 다음 주에는 여러 피드백 반영과 특성을 추가할 예정이다.
