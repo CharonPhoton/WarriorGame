@@ -1859,3 +1859,20 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 이제 다양한 방식으로 전투를 치룰 수 있도록 바뀌었다.
 
 이제 다음 주에는 여러 피드백 반영과 특성을 추가할 예정이다.
+
+### [7주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week45-1.mp4" type="video/mp4" />
+</video>
+
+홈 화면 ~ 특성 선택 바뀐 점
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week45-2.mp4" type="video/mp4" />
+</video>
+
+전투 및 몬스터 관련되어서 바뀐 점
+
+특성 세 개가 추가되었고, 연출과 UI 부분에 많은 점들이 바뀌었다.
+이제 다음 주부터는 상점과 재화를 만들 예정이다.
