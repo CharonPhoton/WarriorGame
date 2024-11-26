@@ -1953,3 +1953,13 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 이제 몬스터의 타격의 연출과, 장비 내구도 감소 및 파괴의 연출이 추가되었다.
 이제 이 다음에는 드디어 상점과 재화를 제작할 예정이다.
 그리고 이후에는 상자 관련 패치를 진행할 예정이다.
+
+### [10~11주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week48.mp4" type="video/mp4" />
+</video>
+
+상점이 추가되었다.
+이것으로 플레이어는 다연차 플레이를 위한 콘텐츠를 즐길 수 있게 되었다.
+이후에는 특성을 해금할 수 있는 시스템을 추가하고, 상자 조우 시스템을 개편할 예정이다.
