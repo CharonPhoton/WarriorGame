@@ -2070,9 +2070,11 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 ### [14주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
-  <source src="./video/week51.mp4" type="video/mp4" />
+  <source src="./video/week51-1.mp4" type="video/mp4" />
 </video>
-
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week51-2.mp4" type="video/mp4" />
+</video>
 강화 시스템이 모두 제작되었다.
 이제 다음에는 조합소를 제작하여 알파 2의 제작을 마무리할 예정이다.
 베타부터는 난이도와 스토리, 그리고 아이템 추가 제작과 데모 공개가 예정되어있다.
