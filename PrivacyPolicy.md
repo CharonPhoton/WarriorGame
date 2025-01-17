@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy applies to the Warrior Is Just Going app (hereby referred to as "Application") for mobile devices that was created by Photon (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Warrior Is Just Going app (hereby referred to as "Application") for mobile devices that was created by Park Su Young (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
 Information Collection and Use
@@ -16,7 +16,7 @@ The Application does not gather precise information about the location of your m
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to dimensions3652@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 
 Third Party Access
@@ -38,14 +38,14 @@ You can stop all collection of information by the Application easily by uninstal
 
 
 Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at jack1285@naver.com and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at dimensions3652@gmail.com and they will respond in a reasonable time.
 
 
 Children
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (jack1285@naver.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (dimensions3652@gmail.com) so that they will be able to take the necessary actions.
 
 
 Security
@@ -56,7 +56,7 @@ Changes
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 
-This privacy policy is effective as of 2024-12-28
+This privacy policy is effective as of 2025-01-17
 
 
 Your Consent
@@ -64,4 +64,4 @@ By using the Application, you are consenting to the processing of your informati
 
 
 Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at jack1285@naver.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at dimensions3652@gmail.com.
