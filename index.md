@@ -2038,7 +2038,7 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 
 이제 다음 주에는 여러 피드백 반영과 특성을 추가할 예정이다.
 
-### [7주차 구현과정]
+### [8주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
   <source src="./video/week45-1.mp4" type="video/mp4" />
@@ -2055,7 +2055,7 @@ Android : https://drive.google.com/file/d/10ZuvaPdlG6RqUcl3BaQUpiud4EbUB9-Z/view
 특성 세 개가 추가되었고, 연출과 UI 부분에 많은 점들이 바뀌었다.
 이제 다음 주부터는 상점과 재화를 만들 예정이다.
 
-### [8주차 구현과정]
+### [9주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
   <source src="./video/week46.mp4" type="video/mp4" />
