@@ -2285,7 +2285,11 @@
 ### [4주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
-  <source src="./video/week56.mp4" type="video/mp4" />
+  <source src="./video/week56-1.mp4" type="video/mp4" />
+</video>
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week56-2.mp4" type="video/mp4" />
 </video>
 
 드디어 히든 보스가 추가되었다.
