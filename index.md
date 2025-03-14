@@ -2426,7 +2426,11 @@
 ### [8주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
-  <source src="./video/week60.mp4" type="video/mp4" />
+  <source src="./video/week60-1.mp4" type="video/mp4" />
+</video>
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week60-2.mp4" type="video/mp4" />
 </video>
 
 이번에는 편의성 패치를 하였다.
