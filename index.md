@@ -2545,3 +2545,11 @@
 
 이번에는 서버 패치를 하고 있던 중이라서 간단한 패치를... 진행한 것인지 모르겠다.
 어쩌다 보니 밸런스 패치 2탄이 되었다.
+
+### [12주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week64.mp4" type="video/mp4" />
+</video>
+
+이번에도 간단한 패치를 하였다.
