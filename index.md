@@ -3060,8 +3060,17 @@ Act 3는 또 미뤄졌다.
 ### [31주차 구현과정]
 
 <video width="100%" height="100%" controls="controls">
-  <source src="./video/week85.mp4" type="video/mp4" />
+  <source src="./video/week85-2.mp4" type="video/mp4" />
 </video>
 
 드디어 대부분 의견이 다 반영되었다.
 다른 의견들은 차근차근 반영할 예정이며, 다음에는 Act 3를 제작할 예정이다.
+
+### [32주차 구현과정]
+
+<video width="100%" height="100%" controls="controls">
+  <source src="./video/week86.mp4" type="video/mp4" />
+</video>
+
+얼떨결에 이게 3주차까지 갔다.
+이제 진짜 Act 3를 제작할 예정이다.
